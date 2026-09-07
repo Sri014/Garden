@@ -1,14 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 25,
+  "repaired": 34,
   "channels": [
     {
       "channel": "Bansal News",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "B4U Music",
-      "url": "http://66.102.126.10:8000/play/a01e/index.m3u8"
+      "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8"
     },
     {
       "channel": "DD Bharati",
@@ -19,20 +23,16 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8"
     },
     {
-      "channel": "DD Chhattisgarh",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
-    },
-    {
       "channel": "DD Bihar",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
     },
     {
-      "channel": "DD Kisan",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+      "channel": "DD Chhattisgarh",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
     },
     {
-      "channel": "DD Uttarakhand",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
+      "channel": "DD Kisan",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     },
     {
       "channel": "DD Rajasthan",
@@ -43,8 +43,20 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
     },
     {
+      "channel": "DD Uttarakhand",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
+    },
+    {
+      "channel": "Jantantra TV",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8"
+    },
+    {
       "channel": "Manoranjan Grand",
       "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "&xplor HD",
+      "url": "http://66.102.126.10:8000/play/a028/index.m3u8"
     },
     {
       "channel": "Goldmines Movies",
@@ -55,6 +67,14 @@
       "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
     },
     {
+      "channel": "Colors Cineplex HD",
+      "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
+    },
+    {
+      "channel": "Colors HD",
+      "url": "http://66.102.126.10:8000/play/a00a/index.m3u8"
+    },
+    {
       "channel": "Manoranjan TV",
       "url": "https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8"
     },
@@ -63,8 +83,20 @@
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
     },
     {
+      "channel": "Star Gold 2",
+      "url": "http://66.102.126.10:8000/play/a077/index.m3u8"
+    },
+    {
+      "channel": "Star Gold HD",
+      "url": "http://41.205.93.154/STAR-GOLD/index.m3u8"
+    },
+    {
       "channel": "Star Gold Select HD",
       "url": "http://66.102.126.10:8000/play/a01s/index.m3u8"
+    },
+    {
+      "channel": "Star Gold Romance",
+      "url": "http://66.102.126.10:8000/play/a00r/index.m3u8"
     },
     {
       "channel": "Swadesh News",
@@ -101,6 +133,10 @@
     {
       "channel": "Pasand TV",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
+    },
+    {
+      "channel": "TNP News",
+      "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8"
     }
   ]
 }
