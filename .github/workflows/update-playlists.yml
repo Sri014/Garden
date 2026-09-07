@@ -23,10 +23,18 @@ jobs:
           test -f working.m3u
           test -f non_working.m3u
           test -f status.json
+      - name: Cross-sync from 3502 working playlist
+        run: python3 cross_sync.py
+      - name: Validate synced playlists
+        run: |
+          test -s working.m3u
+          test -s non_working.m3u
+          grep -q '^#EXTM3U' working.m3u
+          grep -q '^#EXTM3U' non_working.m3u
       - name: Commit playlists
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
-          git diff --cached --quiet || git commit -m 'Auto-update Garden working/non-working playlists'
+          git diff --cached --quiet || git commit -m 'Auto-update Garden playlists and cross-sync 3502'
           git push
