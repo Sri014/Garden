@@ -16,11 +16,17 @@ jobs:
           php-version: '8.2'
           extensions: curl
       - name: Refresh and check streams
-        run: php generate_playlists.php
+        run: |
+          php -l garden_feed.php
+          php -l generate_playlists.php
+          php generate_playlists.php
+          test -f working.m3u
+          test -f non_working.m3u
+          test -f status.json
       - name: Commit playlists
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add cache/garden_feed.json working.m3u non_working.m3u status.json
+          git add -A
           git diff --cached --quiet || git commit -m 'Auto-update Garden working/non-working playlists'
           git push
