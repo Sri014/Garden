@@ -1,10 +1,14 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 29,
+  "repaired": 28,
   "channels": [
     {
       "channel": "B4U Music",
-      "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8"
+      "url": "http://66.102.126.10:8000/play/a01e/index.m3u8"
+    },
+    {
+      "channel": "Colors HD",
+      "url": "http://66.102.126.10:8000/play/a00a/index.m3u8"
     },
     {
       "channel": "DD Bharati",
@@ -15,12 +19,12 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8"
     },
     {
-      "channel": "DD Uttarakhand",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
-    },
-    {
       "channel": "DD Chhattisgarh",
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
+    },
+    {
+      "channel": "DD Rajasthan",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
     },
     {
       "channel": "DD Bihar",
@@ -35,12 +39,8 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
     },
     {
-      "channel": "Colors HD",
-      "url": "http://66.102.126.10:8000/play/a00a/index.m3u8"
-    },
-    {
-      "channel": "DD Rajasthan",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
+      "channel": "DD Uttarakhand",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
     },
     {
       "channel": "Manoranjan Grand",
@@ -63,12 +63,12 @@
       "url": "https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8"
     },
     {
-      "channel": "Star Gold Select HD",
-      "url": "http://66.102.126.10:8000/play/a01s/index.m3u8"
-    },
-    {
       "channel": "NDTV India",
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+    },
+    {
+      "channel": "Star Gold Select HD",
+      "url": "http://66.102.126.10:8000/play/a01s/index.m3u8"
     },
     {
       "channel": "Star Gold HD",
@@ -83,16 +83,16 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8"
     },
     {
-      "channel": "Tehzeeb TV",
-      "url": "https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8"
+      "channel": "Times Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
       "channel": "Prime News",
       "url": "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
     },
     {
-      "channel": "Times Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+      "channel": "Tehzeeb TV",
+      "url": "https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8"
     },
     {
       "channel": "Shemaroo Josh",
@@ -109,10 +109,6 @@
     {
       "channel": "Unique TV",
       "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
-    },
-    {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8"
     },
     {
       "channel": "Pasand TV",
