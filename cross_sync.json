@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 37,
+  "repaired": 39,
   "channels": [
     {
       "channel": "Anjan TV",
@@ -9,6 +9,10 @@
     {
       "channel": "Bansal News",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8"
+    },
+    {
+      "channel": "ANB News",
+      "url": "https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8"
     },
     {
       "channel": "B4U Music",
@@ -23,28 +27,28 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8"
     },
     {
-      "channel": "DD Bihar",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
-    },
-    {
       "channel": "DD Chhattisgarh",
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
     },
     {
-      "channel": "DD Uttar Pradesh",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
-    },
-    {
-      "channel": "DD Kisan",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+      "channel": "DD Bihar",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
     },
     {
       "channel": "&xplor HD",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
     },
     {
+      "channel": "DD Kisan",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+    },
+    {
       "channel": "DD Rajasthan",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
+    },
+    {
+      "channel": "DD Uttar Pradesh",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
     },
     {
       "channel": "DD Uttarakhand",
@@ -75,8 +79,8 @@
       "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "India TV Speed News",
+      "url": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8"
     },
     {
       "channel": "Manoranjan TV",
@@ -87,20 +91,16 @@
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
     },
     {
-      "channel": "Swadesh News",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8"
-    },
-    {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8"
-    },
-    {
       "channel": "Prime News",
       "url": "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
     },
     {
       "channel": "Public First",
       "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8"
+    },
+    {
+      "channel": "Swadesh News",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -145,6 +145,14 @@
     {
       "channel": "Oscar Movies Bhojpuri",
       "url": "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8"
+    },
+    {
+      "channel": "Swaraj Express SMBC",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8"
+    },
+    {
+      "channel": "TNP News",
+      "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8"
     },
     {
       "channel": "Pasand TV",
