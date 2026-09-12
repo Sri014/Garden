@@ -1,22 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 34,
+  "repaired": 35,
   "channels": [
     {
-      "channel": "All Time Movies",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
+      "channel": "Bansal News",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8"
     },
     {
       "channel": "B4U Music",
       "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8"
     },
     {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+      "channel": "Awaaz India TV (720p)",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
     },
     {
       "channel": "DD Bharati",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
+    },
+    {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "DD Madhya Pradesh",
@@ -47,24 +51,16 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
     },
     {
-      "channel": "Enterr 10 Rangeela",
-      "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8"
-    },
-    {
       "channel": "HNN 24x7",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8"
-    },
-    {
-      "channel": "Colors HD",
-      "url": "http://66.102.126.10:8000/play/a00a/index.m3u8"
     },
     {
       "channel": "Manoranjan Grand",
       "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
     },
     {
-      "channel": "Nick Jr.",
-      "url": "http://202.70.146.135:8000/play/a02n/index.m3u8"
+      "channel": "Colors HD",
+      "url": "http://66.102.126.10:8000/play/a00a/index.m3u8"
     },
     {
       "channel": "Goldmines Movies",
@@ -87,6 +83,10 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8"
     },
     {
+      "channel": "Swaraj Express SMBC",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
@@ -105,6 +105,10 @@
     {
       "channel": "VIP News",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    },
+    {
+      "channel": "Zee Action",
+      "url": "http://107.167.16.138/zeeaction/index.m3u8?token=test"
     },
     {
       "channel": "Songdew TV",
