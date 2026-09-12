@@ -1,14 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 31,
+  "repaired": 34,
   "channels": [
     {
-      "channel": "Bansal News",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+      "channel": "All Time Movies",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
     },
     {
       "channel": "B4U Music",
       "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "DD Bharati",
@@ -27,36 +31,48 @@
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
     },
     {
-      "channel": "DD Uttar Pradesh",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
+      "channel": "DD Rajasthan",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
     },
     {
       "channel": "DD Kisan",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     },
     {
-      "channel": "DD Rajasthan",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
+      "channel": "DD Uttar Pradesh",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
     },
     {
       "channel": "DD Uttarakhand",
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8"
     },
     {
-      "channel": "HNN 24x7",
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8"
+      "channel": "Enterr 10 Rangeela",
+      "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8"
     },
     {
-      "channel": "Manoranjan Grand",
-      "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
+      "channel": "HNN 24x7",
+      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8"
     },
     {
       "channel": "Colors HD",
       "url": "http://66.102.126.10:8000/play/a00a/index.m3u8"
     },
     {
+      "channel": "Manoranjan Grand",
+      "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "Nick Jr.",
+      "url": "http://202.70.146.135:8000/play/a02n/index.m3u8"
+    },
+    {
       "channel": "Goldmines Movies",
       "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "Sharnam TV",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8"
     },
     {
       "channel": "Manoranjan TV",
@@ -113,10 +129,6 @@
     {
       "channel": "Zing!",
       "url": "http://107.167.16.138/zing/index.m3u8?token=test"
-    },
-    {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8"
     },
     {
       "channel": "Pasand TV",
