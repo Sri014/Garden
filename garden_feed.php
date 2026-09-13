@@ -3,7 +3,7 @@
  * TV Garden feed
  * - India-only TV channels
  * - Indian language metadata
- * - Worldwide cricket, football, hockey and tennis sports channels
+ * - Worldwide cricket-only sports channels
  * - Category metadata for playlist filtering
  */
 header('Content-Type: application/json; charset=utf-8');
@@ -160,15 +160,15 @@ foreach ($indiaChannels as $ch) {
     gf_add($all, $seen, $ch);
 }
 
-/* Worldwide public sports feeds. Only these sports are intentionally global. */
+/* Worldwide public sports feed: CRICKET ONLY. */
 function gf_is_target_sport($name, $group = '') {
     $n = strtolower($name . ' ' . $group);
-    return (bool) preg_match('/cricket|football|soccer|hockey|tennis|rugby|basketball|volleyball|golf|motorsport|formula 1|f1|nascar|boxing|wwe|mma|ufc|sports?/', $n);
+    return (bool) preg_match('/cricket/i', $n);
 }
 $sportsRaw = gf_http('https://iptv-org.github.io/iptv/categories/sports.m3u');
 if ($sportsRaw !== '') {
     foreach (gf_parse($sportsRaw, 'Sports') as $ch) {
-        if (!gf_is_target_sport($ch['name'])) continue;
+        if (!gf_is_target_sport($ch['name'], $ch['group'] ?? '')) continue;
         $ch['lang'] = 'Sports';
         $ch['cat'] = 'Sports';
         $ch['source'] = 'garden-sports';
@@ -197,7 +197,7 @@ $json = json_encode([
     'result' => array_values($all),
     'count' => count($all),
     'updated' => date('c'),
-    'note' => 'India-only TV channels + worldwide target sports. Filters are applied by playlist.php.'
+    'note' => 'India-only TV channels + worldwide cricket-only sports. Filters are applied by playlist.php.'
 ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 
 @file_put_contents($cacheFile, $json);
