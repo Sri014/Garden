@@ -5,7 +5,7 @@ header('Content-Disposition: '.($download ? 'attachment' : 'inline').'; filename
 header('Cache-Control: no-cache');
 
 $gf = __DIR__ . '/cache/garden_feed.json';
-$data = file_exists($gf) ? json_decode(file_get_contents($gf, true), true) : null;
+$data = file_exists($gf) ? json_decode(file_get_contents($gf), true) : null;
 
 if (!$data || empty($data['result'])) {
     $_GET['refresh'] = '1';
@@ -34,7 +34,6 @@ function detect_language($ch) {
     $existing = trim($ch['lang'] ?? '');
     $e = strtolower($existing);
     if ($e !== '' && !in_array($e, ['all','general','unknown','india'], true)) return $existing;
-
     $n = strtolower(trim(($ch['name'] ?? '') . ' ' . ($ch['cat'] ?? '')));
     $rules = [
         'Tamil'=>['tamil','sun tv','sun news','ktv','adithya','polimer','puthiya','thanthi','dd podhigai','jaya tv','jaya max'],
@@ -56,6 +55,27 @@ function detect_language($ch) {
     return 'Hindi';
 }
 
+/* Never expose the old "Non Jio" category. If an old cached feed still contains
+   it, recategorize the channel here instead of passing it to the M3U. */
+function fix_category($ch) {
+    $cat = trim($ch['cat'] ?? '');
+    if (strcasecmp($cat, 'Non Jio') !== 0) return $cat ?: 'Entertainment';
+
+    $n = strtolower(trim($ch['name'] ?? ''));
+    if (preg_match('/cricket/i', $n)) return 'Sports';
+    if (preg_match('/news|aaj tak|ndtv|republic|wion|cnn|bbc|times now|news18|cnbc|et now|india today/i', $n)) return 'News';
+    if (preg_match('/music|mtv|9xm|b4u music|mastiii|sangeet/i', $n)) return 'Music';
+    if (preg_match('/movie|cinema|cineplex|film/i', $n)) return 'Movies';
+    if (preg_match('/kid|cartoon|nick|pogo|hungama|disney/i', $n)) return 'Kids';
+    if (preg_match('/education|educational|study|learning/i', $n)) return 'Educational';
+    if (preg_match('/shopping|shop|teleshopping/i', $n)) return 'ShoppingMain';
+    if (preg_match('/devot|bhakti|sanskar|spiritual|temple/i', $n)) return 'Devotional';
+    if (preg_match('/science|discovery|national geographic|nat geo|animal planet|history/i', $n)) return 'Science';
+    if (preg_match('/lifestyle|travel|food|fashion|tlc/i', $n)) return 'Lifestyle';
+    if (preg_match('/infotainment|epic/i', $n)) return 'Infotainment';
+    return 'Entertainment';
+}
+
 function language_matches($actual, $wanted) {
     $a = strtolower(trim($actual));
     $w = strtolower(trim($wanted));
@@ -75,7 +95,7 @@ foreach (($data['result'] ?? []) as $ch) {
     $name = trim($ch['name'] ?? 'Channel');
     $logo = $ch['logo'] ?? '';
     $url = trim($ch['url'] ?? '');
-    $cat = trim($ch['cat'] ?? 'Entertainment');
+    $cat = fix_category($ch);
     $lang = detect_language($ch);
     $isHd = !empty($ch['hd']);
     if ($url === '') continue;
