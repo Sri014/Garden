@@ -5,7 +5,7 @@ header('Content-Disposition: '.($download ? 'attachment' : 'inline').'; filename
 header('Cache-Control: no-cache');
 
 $gf = __DIR__ . '/cache/garden_feed.json';
-$data = file_exists($gf) ? json_decode(file_get_contents($gf), true) : null;
+$data = file_exists($gf) ? json_decode(file_get_contents($gf, true), true) : null;
 
 if (!$data || empty($data['result'])) {
     $_GET['refresh'] = '1';
@@ -15,9 +15,9 @@ if (!$data || empty($data['result'])) {
     $data = json_decode($raw, true) ?: [];
 }
 
-function csv_filter($value, $upper=false) {
-    if (!isset($_GET[$value]) || trim($_GET[$value]) === '') return [];
-    $items = array_filter(array_map('trim', explode(',', $_GET[$value])));
+function csv_filter($key, $upper = false) {
+    if (!isset($_GET[$key]) || trim($_GET[$key]) === '') return [];
+    $items = array_filter(array_map('trim', explode(',', $_GET[$key])));
     return $upper ? array_map('strtoupper', $items) : array_map('strtolower', $items);
 }
 
@@ -30,6 +30,45 @@ $wantAllLanguage = empty($languages) || in_array('all', $languages, true);
 $wantAllQuality = empty($qualities) || in_array('ALL', $qualities, true);
 $wantAllGroup = empty($groups) || in_array('all', $groups, true);
 
+function detect_language($ch) {
+    $existing = trim($ch['lang'] ?? '');
+    $e = strtolower($existing);
+    if ($e !== '' && !in_array($e, ['all','general','unknown','india'], true)) return $existing;
+
+    $n = strtolower(trim(($ch['name'] ?? '') . ' ' . ($ch['cat'] ?? '')));
+    $rules = [
+        'Tamil'=>['tamil','sun tv','sun news','ktv','adithya','polimer','puthiya','thanthi','dd podhigai','jaya tv','jaya max'],
+        'Telugu'=>['telugu','gemini','eenadu','etv telugu','abn andhra','tv9 telugu','dd yadagiri','star maa'],
+        'Malayalam'=>['malayalam','asianet','manorama','flowers tv','mathrubhumi','mazhavil','surya tv','dd malayalam','zee keralam'],
+        'Kannada'=>['kannada','udaya','colors kannada','zee kannada','star suvarna','dd chandana','tv9 kannada'],
+        'Bengali'=>['bengali','bangla','zee bangla','star jalsha','colors bangla','sun bangla','dd bangla','abp ananda','tv9 bangla'],
+        'Marathi'=>['marathi','zee marathi','colors marathi','star pravah','sony marathi','dd sahyadri','tv9 marathi'],
+        'Gujarati'=>['gujarati','zee 24 kalak','colors gujarati','sandesh','vande gujarat','dd girnar'],
+        'Punjabi'=>['punjabi','zee punjabi','ptc punjabi','ptc news','chardikla','dd punjabi'],
+        'Odia'=>['odia','oriya','zee odia','kalinga tv','otv','kanak news','dd odia'],
+        'Assamese'=>['assamese','assam','pratidin time','prag news','dy365','news live','dd assam'],
+        'Urdu'=>['urdu','dd urdu'],
+        'Bhojpuri'=>['bhojpuri','sangeet bhojpuri','bhojpuri cinema','dabangg','b4u bhojpuri','zee ganga'],
+        'Hindi'=>['hindi','zee tv','zee cinema','colors','sony entertainment','sony sab','sony pal','star plus','star bharat','&tv','and tv','dd national','dd kisan','aaj tak','abp news','india tv','news18 india','republic bharat'],
+        'English'=>['english','wion','ndtv','republic','times now','cnn','india today','mirror now','newsx','dd india','cnbc','et now','bloomberg','bbc','al jazeera','dw english','france 24','travelxp','good times','discovery','history tv','animal planet','national geographic','nat geo','tlc','fox life','fashion tv','ftv','mtv','nick','disney'],
+    ];
+    foreach ($rules as $lang=>$needles) foreach ($needles as $needle) if (strpos($n,$needle)!==false) return $lang;
+    return 'Hindi';
+}
+
+function language_matches($actual, $wanted) {
+    $a = strtolower(trim($actual));
+    $w = strtolower(trim($wanted));
+    $aliases = [
+        'bangla'=>'bengali','bengali'=>'bengali',
+        'oriya'=>'odia','odia'=>'odia',
+        'assam'=>'assamese','assamese'=>'assamese',
+    ];
+    if (isset($aliases[$w])) $w = $aliases[$w];
+    if (isset($aliases[$a])) $a = $aliases[$a];
+    return $a === $w;
+}
+
 echo "#EXTM3U\n# Garden IPTV\n";
 
 foreach (($data['result'] ?? []) as $ch) {
@@ -37,15 +76,20 @@ foreach (($data['result'] ?? []) as $ch) {
     $logo = $ch['logo'] ?? '';
     $url = trim($ch['url'] ?? '');
     $cat = trim($ch['cat'] ?? 'Entertainment');
-    $lang = trim($ch['lang'] ?? 'All');
+    $lang = detect_language($ch);
     $isHd = !empty($ch['hd']);
     if ($url === '') continue;
 
-    $langKey = strtolower($lang);
     $catKey = strtolower($cat);
     $qualityKey = $isHd ? 'HD' : 'SD';
 
-    if (!$wantAllLanguage && !in_array($langKey, $languages, true)) continue;
+    if (!$wantAllLanguage) {
+        $matched = false;
+        foreach ($languages as $wanted) {
+            if (language_matches($lang, $wanted)) { $matched = true; break; }
+        }
+        if (!$matched) continue;
+    }
     if (!$wantAllQuality && !in_array($qualityKey, $qualities, true)) continue;
     if (!$wantAllGroup && !in_array($catKey, $groups, true)) continue;
     if (!empty($excludeGroups) && in_array($catKey, $excludeGroups, true)) continue;
