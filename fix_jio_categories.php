@@ -1,7 +1,8 @@
 <?php
 /**
- * Re-group Garden channels using the categories already present in 3502.
- * 3502 is the category authority. No channel is deleted here.
+ * Match EVERY Garden channel against the complete JioTV category playlist.
+ * Matched channels use the JioTV group. Unmatched channels use None.
+ * No Garden channel is deleted.
  */
 const JIO_PLAYLIST = 'https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u';
 
@@ -12,7 +13,7 @@ function http_get(string $url): string {
         CURLOPT_FOLLOWLOCATION => true,
         CURLOPT_CONNECTTIMEOUT => 8,
         CURLOPT_TIMEOUT => 30,
-        CURLOPT_USERAGENT => 'Mozilla/5.0 Garden-Jio-Category-Sync/1.0',
+        CURLOPT_USERAGENT => 'Mozilla/5.0 Garden-Jio-Category-Sync/2.0',
         CURLOPT_SSL_VERIFYPEER => false,
         CURLOPT_SSL_VERIFYHOST => false,
     ]);
@@ -41,11 +42,12 @@ function parse_jio_map(string $m3u): array {
             $name = '';
             if (preg_match('/group-title="([^"]*)"/i', $line, $m)) $group = trim($m[1]);
             if (preg_match('/,([^,]*)$/', $line, $m)) $name = trim($m[1]);
-            if ($name !== '' && $group !== '') $current = [$name, $group];
-            else $current = null;
+            $current = ($name !== '') ? [$name, $group] : null;
         } elseif ($current && $line !== '' && $line[0] !== '#') {
             $key = norm_name($current[0]);
-            if ($key !== '' && !isset($map[$key])) $map[$key] = $current[1];
+            if ($key !== '' && $current[1] !== '' && !isset($map[$key])) {
+                $map[$key] = $current[1];
+            }
             $current = null;
         }
     }
@@ -56,35 +58,32 @@ function rewrite(string $file, array $map): void {
     if (!is_file($file)) return;
     $text = file_get_contents($file);
     if ($text === false) return;
+
     $text = preg_replace_callback(
         '/^#EXTINF:(.*?)(?:group-title="[^"]*")(.*?),(.*)$/mi',
         function ($m) use ($map) {
             $name = trim($m[3]);
             $key = norm_name($name);
-            if (!isset($map[$key])) {
-                // Only channels that are not matched to 3502 stay Non Jio.
-                $group = 'Non Jio';
-            } else {
-                $group = $map[$key];
-            }
-            $prefix = $m[1];
-            $suffix = $m[2];
-            return '#EXTINF:' . $prefix . 'group-title="' . addcslashes($group, '"\\') . '"' . $suffix . ',' . $m[3];
+            $group = $map[$key] ?? 'None';
+            return '#EXTINF:' . $m[1]
+                . 'group-title="' . addcslashes($group, '"\\') . '"'
+                . $m[2] . ',' . $m[3];
         },
         $text
     );
+
     file_put_contents($file, $text);
 }
 
 $jio = http_get(JIO_PLAYLIST);
 if ($jio === '') {
-    fwrite(STDERR, "ERROR: Could not fetch 3502 playlist\n");
+    fwrite(STDERR, "ERROR: Could not fetch complete JioTV category playlist\n");
     exit(1);
 }
 
 $map = parse_jio_map($jio);
 if (!$map) {
-    fwrite(STDERR, "ERROR: 3502 category map is empty\n");
+    fwrite(STDERR, "ERROR: JioTV category map is empty\n");
     exit(1);
 }
 
@@ -96,3 +95,4 @@ foreach ($map as $group) $counts[$group] = ($counts[$group] ?? 0) + 1;
 krsort($counts);
 echo 'Jio category map: ' . count($map) . " channels\n";
 foreach ($counts as $group => $count) echo "$group: $count\n";
+echo "Garden working.m3u + non_working.m3u: remapped; unmatched = None\n";
