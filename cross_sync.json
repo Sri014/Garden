@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 29,
+  "repaired": 31,
   "channels": [
     {
       "channel": "B4U Music",
@@ -11,28 +11,28 @@
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     },
     {
-      "channel": "DD Madhya Pradesh",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8"
-    },
-    {
-      "channel": "DD Bihar",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
+      "channel": "DD Rajasthan",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
     },
     {
       "channel": "DD Chhattisgarh",
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8"
     },
     {
-      "channel": "DD Uttar Pradesh",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
+      "channel": "DD Bihar",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
     },
     {
       "channel": "DD Kisan",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     },
     {
-      "channel": "DD Rajasthan",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
+      "channel": "DD Madhya Pradesh",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8"
+    },
+    {
+      "channel": "DD Uttar Pradesh",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8"
     },
     {
       "channel": "DD Uttarakhand",
@@ -51,16 +51,16 @@
       "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
     },
     {
+      "channel": "Swadesh News",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8"
+    },
+    {
       "channel": "Manoranjan TV",
       "url": "https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8"
     },
     {
       "channel": "NDTV India",
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
-    },
-    {
-      "channel": "Swadesh News",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8"
     },
     {
       "channel": "Prime News",
@@ -71,18 +71,6 @@
       "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8"
     },
     {
-      "channel": "Times Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
-    },
-    {
-      "channel": "Tehzeeb TV",
-      "url": "https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8"
-    },
-    {
-      "channel": "VIP News",
-      "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    },
-    {
       "channel": "Songdew TV",
       "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
@@ -91,24 +79,44 @@
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8"
     },
     {
-      "channel": "Unique TV",
-      "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
-    },
-    {
-      "channel": "Oscar Movies Bhojpuri",
-      "url": "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8"
-    },
-    {
-      "channel": "Zee Classic",
-      "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
+      "channel": "Tehzeeb TV",
+      "url": "https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8"
     },
     {
       "channel": "Sharnam TV",
       "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8"
     },
     {
+      "channel": "VIP News",
+      "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    },
+    {
+      "channel": "Unique TV",
+      "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
+    },
+    {
+      "channel": "Zee Classic",
+      "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
+    },
+    {
       "channel": "Zing!",
       "url": "http://107.167.16.138/zing/index.m3u8?token=test"
+    },
+    {
+      "channel": "CVR English",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    },
+    {
+      "channel": "Hi Dost!",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8"
+    },
+    {
+      "channel": "Times Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+    },
+    {
+      "channel": "Oscar Movies Bhojpuri",
+      "url": "https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8"
     },
     {
       "channel": "Pasand TV",
