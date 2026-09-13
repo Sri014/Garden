@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 33,
+  "repaired": 35,
   "channels": [
     {
       "channel": "Bansal News",
@@ -11,16 +11,16 @@
       "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8"
     },
     {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+    },
+    {
       "channel": "DD Bharati",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     },
     {
       "channel": "DD Rajasthan",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8"
-    },
-    {
-      "channel": "DD Bihar",
-      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
     },
     {
       "channel": "DD Chhattisgarh",
@@ -33,6 +33,10 @@
     {
       "channel": "DD Kisan",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+    },
+    {
+      "channel": "DD Bihar",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8"
     },
     {
       "channel": "DD Uttar Pradesh",
@@ -53,6 +57,10 @@
     {
       "channel": "Goldmines Movies",
       "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Manoranjan TV",
@@ -111,12 +119,12 @@
       "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
     {
-      "channel": "Disney International HD",
-      "url": "http://202.70.146.135:8000/play/a04p/index.m3u8"
-    },
-    {
       "channel": "Hi Dost!",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8"
+    },
+    {
+      "channel": "Prudent Media",
+      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8"
     },
     {
       "channel": "Times Now (720p)",
