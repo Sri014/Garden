@@ -1,8 +1,9 @@
 <?php
 /**
  * TV Garden feed
- * - Indian language feeds from iptv-org
- * - Indian English/news + sports
+ * - India-only TV channels
+ * - Indian language metadata
+ * - Worldwide cricket, football, hockey and tennis sports channels
  * - Category metadata for playlist filtering
  */
 header('Content-Type: application/json; charset=utf-8');
@@ -75,14 +76,17 @@ function gf_parse($text, $lang) {
             if (preg_match('/,([^,]*)$/', $line, $m)) $name = gf_clean_name(trim($m[1]));
             $logo = '';
             $group = 'General';
+            $id = '';
             if (preg_match('/tvg-logo="([^"]*)"/', $line, $m)) $logo = $m[1];
+            if (preg_match('/tvg-id="([^"]*)"/', $line, $m)) $id = trim($m[1]);
             if (preg_match('/group-title="([^"]*)"/', $line, $m) && trim($m[1]) !== '') $group = trim($m[1]);
-            $cur = compact('name', 'logo', 'group');
+            $cur = compact('name', 'logo', 'group', 'id');
         } elseif ($cur && $line !== '' && $line[0] !== '#') {
             if ($cur['name'] !== '' && preg_match('/^https?:\/\//i', $line)) {
                 $out[] = [
                     'name' => $cur['name'],
                     'logo' => $cur['logo'],
+                    'id' => $cur['id'],
                     'cat' => gf_cat($cur['group'], $cur['name']),
                     'lang' => $lang,
                     'url' => $line,
@@ -117,70 +121,57 @@ function gf_add(&$all, &$seen, $ch) {
     $all[] = $ch;
 }
 
-/* All major Indian broadcast languages currently represented by iptv-org. */
+/* India country feed is the authoritative TV universe: no foreign general channels. */
+$indiaRaw = gf_http('https://iptv-org.github.io/iptv/countries/in.m3u');
+$indiaChannels = $indiaRaw !== '' ? gf_parse($indiaRaw, 'English') : [];
+
+/* Build Indian-language metadata from language playlists, but only for channels
+   already present in the India country feed. This prevents foreign channels from
+   leaking into the normal Garden TV list. */
 $languageFeeds = [
-    'Assamese' => 'asm',
-    'Bengali' => 'ben',
-    'Bhojpuri' => 'bho',
-    'Chhattisgarhi' => 'hne',
-    'English' => 'eng',
-    'Gujarati' => 'guj',
-    'Hindi' => 'hin',
-    'Haryanvi' => 'bgc',
-    'Kannada' => 'kan',
-    'Konkani' => 'kok',
-    'Maithili' => 'mai',
-    'Malayalam' => 'mal',
-    'Marathi' => 'mar',
-    'Nepali' => 'nep',
-    'Odia' => 'ori',
-    'Punjabi' => 'pan',
-    'Sanskrit' => 'san',
-    'Santali' => 'sat',
-    'Sindhi' => 'snd',
-    'Tamil' => 'tam',
-    'Telugu' => 'tel',
-    'Urdu' => 'urd',
+    'Assamese' => 'asm', 'Bengali' => 'ben', 'Bhojpuri' => 'bho',
+    'Chhattisgarhi' => 'hne', 'English' => 'eng', 'Gujarati' => 'guj',
+    'Hindi' => 'hin', 'Haryanvi' => 'bgc', 'Kannada' => 'kan',
+    'Konkani' => 'kok', 'Maithili' => 'mai', 'Malayalam' => 'mal',
+    'Marathi' => 'mar', 'Nepali' => 'nep', 'Odia' => 'ori', 'Punjabi' => 'pan',
+    'Sanskrit' => 'san', 'Santali' => 'sat', 'Sindhi' => 'snd',
+    'Tamil' => 'tam', 'Telugu' => 'tel', 'Urdu' => 'urd',
 ];
 
+$indiaNames = [];
+foreach ($indiaChannels as $i => $ch) {
+    $indiaNames[strtolower(preg_replace('/\s+/', ' ', trim($ch['name'])))] = $i;
+}
+
+$langByName = [];
 foreach ($languageFeeds as $lang => $code) {
     $raw = gf_http('https://iptv-org.github.io/iptv/languages/' . $code . '.m3u');
     if ($raw === '') continue;
-    foreach (gf_parse($raw, $lang) as $ch) gf_add($all, $seen, $ch);
-}
-
-/* India country feed adds channels whose language metadata is not in a language playlist. */
-$indiaRaw = gf_http('https://iptv-org.github.io/iptv/countries/in.m3u');
-if ($indiaRaw !== '') {
-    foreach (gf_parse($indiaRaw, 'English') as $ch) {
-        $n = strtolower($ch['name']);
-        $cat = $ch['cat'];
-        if ($cat === 'Sports') $ch['lang'] = 'Sports';
-        elseif (preg_match('/news|wion|ndtv|republic|times now|cnn|aaj tak|news18|cnbc|et now|bloomberg|bbc|al jazeera|dw|france 24|india today|mirror now|newsx/', $n)) $ch['lang'] = 'English';
-        else continue;
-        gf_add($all, $seen, $ch);
+    foreach (gf_parse($raw, $lang) as $ch) {
+        $nk = strtolower(preg_replace('/\s+/', ' ', trim($ch['name'])));
+        if (isset($indiaNames[$nk])) $langByName[$nk] = $lang;
     }
 }
 
-/* Selected international feeds only for sports channels. */
-function gf_is_sport($name) {
-    $n = strtolower($name);
-    foreach (['cricket','willow','star sports','sony six','sony ten','sony espn','sports18','t sports','tsports','ptv sports','ten cricket','astro cricket','sky sports cricket','super sport','supersport','fox sports','a sports','geo super'] as $k) {
-        if (strpos($n, $k) !== false) return true;
-    }
-    return false;
+foreach ($indiaChannels as $ch) {
+    $nk = strtolower(preg_replace('/\s+/', ' ', trim($ch['name'])));
+    $ch['lang'] = $langByName[$nk] ?? 'English';
+    if (preg_match('/news|wion|ndtv|republic|times now|bbc|cnn|aaj tak|news18|india today|mirror now|newsx/', strtolower($ch['name']))) $ch['lang'] = $ch['lang'] ?: 'English';
+    gf_add($all, $seen, $ch);
 }
-$sportsSources = [
-    'https://iptv-org.github.io/iptv/categories/sports.m3u',
-    'https://iptv-org.github.io/iptv/countries/bd.m3u',
-];
-foreach ($sportsSources as $src) {
-    $raw = gf_http($src);
-    if ($raw === '') continue;
-    foreach (gf_parse($raw, 'Sports') as $ch) {
-        if (!gf_is_sport($ch['name'])) continue;
+
+/* Worldwide public sports feeds. Only these sports are intentionally global. */
+function gf_is_target_sport($name, $group = '') {
+    $n = strtolower($name . ' ' . $group);
+    return (bool) preg_match('/cricket|football|soccer|hockey|tennis|rugby|basketball|volleyball|golf|motorsport|formula 1|f1|nascar|boxing|wwe|mma|ufc|sports?/', $n);
+}
+$sportsRaw = gf_http('https://iptv-org.github.io/iptv/categories/sports.m3u');
+if ($sportsRaw !== '') {
+    foreach (gf_parse($sportsRaw, 'Sports') as $ch) {
+        if (!gf_is_target_sport($ch['name'])) continue;
         $ch['lang'] = 'Sports';
         $ch['cat'] = 'Sports';
+        $ch['source'] = 'garden-sports';
         gf_add($all, $seen, $ch);
     }
 }
@@ -206,7 +197,7 @@ $json = json_encode([
     'result' => array_values($all),
     'count' => count($all),
     'updated' => date('c'),
-    'note' => 'Indian language feeds + India English/news + sports. Filters are applied by playlist.php.'
+    'note' => 'India-only TV channels + worldwide target sports. Filters are applied by playlist.php.'
 ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 
 @file_put_contents($cacheFile, $json);
