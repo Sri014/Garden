@@ -1,142 +1,118 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Non Jio" tvg-language="Sports",Canal+ Sport 360
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Non Jio" tvg-language="Sports",beIN SPORTS XTRA en Espanol
-http://201.190.41.246:9060/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="Non Jio" tvg-language="Sports",Adjarasport 1
-https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="Non Jio" tvg-language="Sports",Awapa Sports TV (1080p)
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Non Jio" tvg-language="Sports",beIN SPORTS XTRA en Espanol
+http://201.190.41.246:9060/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Non Jio" tvg-language="Sports",Canal+ Sport 360
+https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="Non Jio" tvg-language="Sports",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRVsB89.png" group-title="Non Jio" tvg-language="Sports",5Sport
+http://stream.mcquack.net/41/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="Non Jio" tvg-language="Sports",CBC Sport HD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Non Jio" tvg-language="Sports",Band Sports
-https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 1
 https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Non Jio" tvg-language="Sports",Alfa Sport (1080p)
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-logo="" group-title="Non Jio" tvg-language="Sports",Arena Sport 5 Premium
-https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Non Jio" tvg-language="Sports",DSports 2
-http://138.121.113.175:8000/play/a0ca/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Non Jio" tvg-language="Sports",DSports
-http://138.121.113.175:8000/play/a0cj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 4
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 2
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 3
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Non Jio" tvg-language="Sports",Band Sports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Non Jio" tvg-language="Sports",DiviSport
+http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Non Jio" tvg-language="Sports",Claro Sports
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eZa0qh.png" group-title="Non Jio" tvg-language="Sports",Go3 Sport 1
-http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Non Jio" tvg-language="Sports",DSports
+http://138.121.113.175:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Non Jio" tvg-language="Sports",DSports 2
+http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Non Jio" tvg-language="Sports",Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" group-title="Non Jio" tvg-language="Sports",Maincast Cybersport
-http://stream.mcquack.net/487/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" group-title="Non Jio" tvg-language="Sports",Maincast Sport
-http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Non Jio" tvg-language="Sports",Arena Sport 5 Premium
+https://nl1.nghk.ai/SK2SRHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Non Jio" tvg-language="Sports",Alfa Sport (1080p)
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eZa0qh.png" group-title="Non Jio" tvg-language="Sports",Go3 Sport 1
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Non Jio" tvg-language="Sports",Jordan Sport
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="Non Jio" tvg-language="Sports",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="Non Jio" tvg-language="Sports",ERT Sports 1
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="Non Jio" tvg-language="Sports",ERT Sports 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Non Jio" tvg-language="Sports",Jordan Sport
-http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Non Jio" tvg-language="Sports",Max Sport 1
 http://213.91.179.28:8000/play/a0as
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGiGgZ2.png" group-title="Non Jio" tvg-language="Sports",Max Sport 3
-http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33m1wPN.png" group-title="Non Jio" tvg-language="Sports",Max Sport 2
 http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGiGgZ2.png" group-title="Non Jio" tvg-language="Sports",Max Sport 3
+http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IxXX6f.png" group-title="Non Jio" tvg-language="Sports",Max Sport 4
 http://213.91.179.28:8000/play/a05n
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Non Jio" tvg-language="Sports",Multivisión Sports (720p)
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" group-title="Non Jio" tvg-language="Sports",GEM Sport
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Non Jio" tvg-language="Sports",M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Non Jio" tvg-language="Sports",Multivisión Sports (720p)
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Non Jio" tvg-language="Sports",Okko Sport
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" group-title="Non Jio" tvg-language="Sports",GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Non Jio" tvg-language="Sports",Radio Turrialba TV Sports (720p)
+https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="Non Jio" tvg-language="Sports",Premier Sports 1
 https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="Non Jio" tvg-language="Sports",Premier Sports 2
 https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Non Jio" tvg-language="Sports",Radio Turrialba TV Sports (720p)
-https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Non Jio" tvg-language="Sports",Rai Sport
 https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Non Jio" tvg-language="Sports",QazSport
-http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NsFTG7u.png" group-title="Non Jio" tvg-language="Sports",RMC Sport 1
 https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Non Jio" tvg-language="Sports",Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Non Jio" tvg-language="Sports",NBC Sports Bay Area (1080p)
+https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" group-title="Non Jio" tvg-language="Sports",NBC Sports Philadelphia (1080p)
+https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOBACb6.png" group-title="Non Jio" tvg-language="Sports",Setanta Sports 2
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="Non Jio" tvg-language="Sports",Setanta Sports 3
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" group-title="Non Jio" tvg-language="Sports",NBC Sports Philadelphia (1080p)
-https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Non Jio" tvg-language="Sports",NBC Sports Bay Area (1080p)
-https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Non Jio" tvg-language="Sports",Setanta Sports 2 Eurasia
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Non Jio" tvg-language="Sports",Sky Sport F1
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Non Jio" tvg-language="Sports",Polsat Sport Premium 1
-https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Non Jio" tvg-language="Sports",Polsat Sport Premium 2
-https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Non Jio" tvg-language="Sports",Sharjah Sports (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Non Jio" tvg-language="Sports",Sky Sports Cricket
 https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Non Jio" tvg-language="Sports",Sky Sports Golf HD
 https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Non Jio" tvg-language="Sports",Sharjah Sports (1080p)
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Non Jio" tvg-language="Sports",Polsat Sport Premium 2
+https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Non Jio" tvg-language="Sports",Polsat Sport Premium 1
+https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Non Jio" tvg-language="Sports",Sky Sports F1
 https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="Non Jio" tvg-language="Sports",Sportdigital FUSSBALL
 https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Non Jio" tvg-language="Sports",Sportitalia Motori (720p)
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Non Jio" tvg-language="Sports",Sportitalia 24 (720p)
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Non Jio" tvg-language="Sports",Sportitalia Solocalcio
-https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="Non Jio" tvg-language="Sports",Suspilne. Sport
-http://stream.mcquack.net/444/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Non Jio" tvg-language="Sports",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Non Jio" tvg-language="Sports",Tigo Sports (720p)
-https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Non Jio" tvg-language="Sports",Tigo Sports
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Non Jio" tvg-language="Sports",Tigo Sports+
-https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jT2VFzA.jpeg" group-title="Non Jio" tvg-language="Sports",TNC Sports
-https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/76Zzs5R.png" group-title="Non Jio" tvg-language="Sports",TV 2 Sport
-https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Non Jio" tvg-language="Sports",TVP Sport
-https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Non Jio" tvg-language="Sports",Sportitalia Motori (720p)
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 2
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 3
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Non Jio" tvg-language="Sports",Digi Sport 4
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="Non Jio" tvg-language="Sports",MMA-TV
 http://31.148.48.15/M1_Global/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Non Jio" tvg-language="Sports",TVRI Sport
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Non Jio" tvg-language="Sports",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIreFti.png" group-title="Non Jio" tvg-language="Sports",TVMsport+
-https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Non Jio" tvg-language="Sports",PTV Sports
 http://103.250.28.74:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Non Jio" tvg-language="Sports",viju+ Sport
-http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="Non Jio" tvg-language="Sports",RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="Non Jio" tvg-language="Sports",We Sport TV
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Non Jio" tvg-language="Sports",S Sport
 https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Non Jio" tvg-language="Sports",S Sport 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Non Jio" tvg-language="Sports",Sky Sports Football
 http://188.138.29.131/skyfootball/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WJE9CM.png" group-title="Non Jio" tvg-language="Sports",Sport
@@ -153,30 +129,52 @@ http://znty.dyndns.org:5010/hls/stv5.m3u8
 http://zntx.dyndns.org:8085/hls/stv6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Non Jio" tvg-language="Sports",Sport TV7
 http://zntx.dyndns.org:8085/hls/stv7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Non Jio" tvg-language="Sports",Sportitalia Solocalcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Non Jio" tvg-language="Sports",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="Non Jio" tvg-language="Sports",Sports Television
+https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Non Jio" tvg-language="Sports",S Sport 2
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16IhU0M.png" group-title="Non Jio" tvg-language="Sports",Suspilne. Sport
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/76Zzs5R.png" group-title="Non Jio" tvg-language="Sports",TV 2 Sport
+https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Non Jio" tvg-language="Sports",TVP Sport
+https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Non Jio" tvg-language="Sports",Tigo Sports
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Non Jio" tvg-language="Sports",Tigo Sports (720p)
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Non Jio" tvg-language="Sports",Tigo Sports+
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jT2VFzA.jpeg" group-title="Non Jio" tvg-language="Sports",TNC Sports
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Non Jio" tvg-language="Sports",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Non Jio" tvg-language="Sports",TVRI Sport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="Non Jio" tvg-language="Sports",We Sport TV
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIreFti.png" group-title="Non Jio" tvg-language="Sports",TVMsport+
+https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Non Jio" tvg-language="Sports",Ziggo Sport 5
+http://145.239.5.177/349/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Non Jio" tvg-language="Sports",Ziggo Sport 2
+http://86.87.15.10:8004/play/a02b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Non Jio" tvg-language="Sports",Ziggo Sport
+http://86.87.15.10:8004/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Non Jio" tvg-language="Hindi",&xplor HD (1080p)
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Hindi",Aradana TV
+https://cdn-1.pishow.tv/live/961/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="Non Jio" tvg-language="Sports",TDM Sports Ch. 93
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7qS6TcE.png" group-title="Non Jio" tvg-language="Sports",Ten Sports Pakistan
 http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Non Jio" tvg-language="Sports",TyC Sports
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6vITLu.png" group-title="Non Jio" tvg-language="Sports",Türkmenistan Sport (406p)
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCw8Pmz.png" group-title="Non Jio" tvg-language="Sports",V Sport Golf
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Non Jio" tvg-language="Sports",World of Freesports
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Non Jio" tvg-language="Sports",Ziggo Sport
-http://86.87.15.10:8004/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Non Jio" tvg-language="Sports",Ziggo Sport 2
-http://86.87.15.10:8004/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Non Jio" tvg-language="Sports",Ziggo Sport 5
-http://145.239.5.177/349/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Non Jio" tvg-language="Hindi",Aastha
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Non Jio" tvg-language="Hindi",&xplor HD (1080p)
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Hindi",Aradana TV
-https://cdn-1.pishow.tv/live/961/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="News" tvg-language="Hindi",Aaj Tak
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Hindi",Aastha Bhajan
@@ -221,10 +219,10 @@ https://cdn-2.pishow.tv/live/475/master.m3u8
 http://103.253.18.58:8000/play/a00u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Non Jio" tvg-language="Hindi",Star Gold Thrills
 http://103.253.18.58:8000/play/a00o
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports" tvg-language="Hindi",Star Sports 2 Hindi HD
-http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THJEAqJ.png" group-title="Non Jio" tvg-language="Hindi",MoviePlex
 http://103.175.73.12:8080/live/583/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports" tvg-language="Hindi",Star Sports 2 Hindi HD
+http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Non Jio" tvg-language="Hindi",Raj Pariwar
 http://103.72.101.252:8080/live/533.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Hindi",Sarv Dharam Sangam
@@ -253,8 +251,6 @@ http://103.72.101.252:8080/live/993.m3u8
 http://103.72.101.252:8080/live/995.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png" group-title="Non Jio" tvg-language="Hindi",Swayam Prabha 16
 http://103.72.101.252:8080/live/994.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png" group-title="News" tvg-language="Hindi",Times Now Navbharat HD
-https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png" group-title="Non Jio" tvg-language="Hindi",Swayam Prabha 17
 http://103.72.101.252:8080/live/996.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Hindi",Total TV Haryana
@@ -283,40 +279,40 @@ http://103.72.101.252:8080/live/987.m3u8
 http://103.72.101.252:8080/live/985.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nN5bkZO.png" group-title="Non Jio" tvg-language="Hindi",Swayam Prabha 8
 http://103.72.101.252:8080/live/983.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UjFRkfW.png" group-title="Non Jio" tvg-language="Hindi",Swayam Prabha 9
-http://103.72.101.252:8080/live/988.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCRhS1n.png" group-title="Non Jio" tvg-language="Hindi",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Hindi",The Q India
-http://103.175.73.12:8080/live/25/25_0.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Non Jio" tvg-language="Hindi",Zee Horror Nights
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="Non Jio" tvg-language="Hindi",Zee Comedy Nation
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjFRkfW.png" group-title="Non Jio" tvg-language="Hindi",Swayam Prabha 9
+http://103.72.101.252:8080/live/988.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Non Jio" tvg-language="Hindi",Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Non Jio" tvg-language="Hindi",Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Hindi",The Q India
+http://103.175.73.12:8080/live/25/25_0.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Non Jio" tvg-language="Hindi",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjZj5JE.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 1
 http://103.72.101.252:8080/live/1069.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Hindi",Zoom Global
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YSECJPy.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 10
 http://103.72.101.252:8080/live/1088.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkXeGI9.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 11
 http://103.72.101.252:8080/live/1089.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Hindi",Zoom Global
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0F4jQ1.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 12
 http://103.72.101.252:8080/live/1090.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoDwNZx.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 13
 http://103.72.101.252:8080/live/1091.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1n2gMHF.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 14
 http://103.72.101.252:8080/live/1092.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="English",ET Now (720p)
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xN2AnH.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 15
 http://103.72.101.252:8080/live/1093.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xVRuk5X.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 16
 http://103.72.101.252:8080/live/1094.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="English",ET Now (720p)
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZeOwSM.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 2
 http://103.72.101.252:8080/live/1070.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1b3XRZ.png" group-title="Non Jio" tvg-language="Hindi",Vande Gujarat 3
@@ -335,12 +331,12 @@ http://103.72.101.252:8080/live/1086.m3u8
 http://103.72.101.252:8080/live/1087.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="English",Romedy Now
 http://103.157.248.140:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Assamese",DY 365
-https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Assamese",Ramdhenu
 https://cdn-7.pishow.tv/live/10016/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RANG/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Assamese",Rang
 https://cdn-7.pishow.tv/live/10017/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Assamese",DY 365
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Bengali",Dhoom Music
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Bengali",Khushboo Bangla
@@ -349,16 +345,16 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 https://cdn-2.pishow.tv/live/1494/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjSaHj5.png" group-title="Non Jio" tvg-language="Bengali",Orange Bangla TV
 https://cdn-4.pishow.tv/live/1499/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Bengali",Rupasi Bangla
+https://cdn-4.pishow.tv/live/1039/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="English",Nick HD+
 http://103.72.101.252:8080/live/1226.m3u8
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Non Jio" tvg-language="Bengali",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpI7XPC.png" group-title="Non Jio" tvg-language="Bengali",R Plus Gold
 https://cdn-4.pishow.tv/live/1231/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Non Jio" tvg-language="Bengali",Star Jalsha (576p)
 http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Bengali",Rupasi Bangla
-https://cdn-4.pishow.tv/live/1039/master.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Non Jio" tvg-language="Bengali",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Times-Now-World-transparent.png" group-title="Non Jio" tvg-language="English",Times Now World
 http://103.72.101.252:8080/live/876.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wu7aQRg.png" group-title="Non Jio" tvg-language="Bengali",Onkar Only Truth TV
@@ -369,32 +365,30 @@ http://103.175.73.12:8080/live/347/master.m3u8
 http://103.175.73.12:8080/live/676/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Assamese",Pear TV
 http://103.175.73.12:8080/live/695/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Kannada",Aastha Kannada
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Assamese",Rengoni
 http://103.175.73.12:8080/live/709/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Kannada",Republic Kannada
-https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png" group-title="Non Jio" tvg-language="Konkani",RDX Goa (720p)
 https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Kannada",Public TV
-https://cdn-3.pishow.tv/live/439/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Bengali",Colors Bangla HD
 http://103.165.93.31:8095/colorsBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Malayalam",Kairali News
-https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Malayalam",Media One
-https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Kannada",Public TV
+https://cdn-3.pishow.tv/live/439/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Kannada",Republic Kannada
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="Non Jio" tvg-language="Malayalam",Jeevan TV
 https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Malayalam",Media One
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Malayalam",Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-malayalam-17.svg" group-title="Non Jio" tvg-language="Malayalam",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="Non Jio" tvg-language="Bengali",Zee 24 Ghanta
 http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" group-title="Non Jio" tvg-language="Gujarati",Mantavya News
-https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540" group-title="Non Jio" tvg-language="Marathi",MKN Marathi
 https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" group-title="Non Jio" tvg-language="Gujarati",Mantavya News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Marathi",Saam TV
 https://cdn-3.pishow.tv/live/437/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Marathi",Sangeet Marathi
@@ -409,6 +403,8 @@ http://103.253.18.58:8000/play/a03o
 http://103.72.101.252:8080/live/1455.m3u8
 #EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" group-title="Non Jio" tvg-language="Punjabi",Fast1
 https://cdn-6.pishow.tv/live/10008/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWUcSb8.png" group-title="Non Jio" tvg-language="Punjabi",Maha Punjabi
+https://cdn-4.pishow.tv/live/1521/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fdUkOl.png" group-title="Non Jio" tvg-language="Malayalam",M Sign Media (720p)
 http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="Non Jio" tvg-language="Malayalam",Mayyazhi (720p)
@@ -421,8 +417,8 @@ https://see.lokshahi.live/live/index.m3u8
 http://149.71.34.166:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_YUVA/images/LOGO_HD/LOGO_HD_image.png" group-title="Non Jio" tvg-language="Marathi",Zee Yuva
 http://103.72.101.252:8080/live/414.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWUcSb8.png" group-title="Non Jio" tvg-language="Punjabi",Maha Punjabi
-https://cdn-4.pishow.tv/live/1521/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="Non Jio" tvg-language="Punjabi",Hamdard TV
+https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Punjabi",Manoranjan Movies
 http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Punjabi",PTC Chakde
@@ -433,8 +429,8 @@ http://103.175.73.12:8080/live/182/master.m3u8
 http://103.213.31.109:90/ActionCinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" group-title="Non Jio" tvg-language="Punjabi",PTC Simran
 http://103.175.73.12:8080/live/183/master.m3u8
-#EXTINF:-1 tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="Non Jio" tvg-language="Punjabi",TV Punjab (720p)
-https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png" group-title="Non Jio" tvg-language="Punjabi",Sada TV (1080p)
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" group-title="Non Jio" tvg-language="Kannada",Siri Kannada All Time
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="Non Jio" tvg-language="Malayalam",Malabar News (720p)
@@ -453,24 +449,26 @@ https://cdn-3.pishow.tv/live/1279/master.m3u8
 https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Non Jio" tvg-language="Tamil",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Non Jio" tvg-language="Tamil",Peppers TV
-https://cdn-2.pishow.tv/live/1383/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Tamil",Polimer TV
 https://cdn-2.pishow.tv/live/1241/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Non Jio" tvg-language="Tamil",Peppers TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Tamil",Travelxp 4K HDR (2160p)
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="Non Jio" tvg-language="Telugu",99TV
 https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="Non Jio" tvg-language="Telugu",ETV Andhra Pradesh
-https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCyW32I.png" group-title="Non Jio" tvg-language="Telugu",CVR Health
 https://cdn-6.pishow.tv/live/395/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="Non Jio" tvg-language="Telugu",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Telugu",DD Yadagiri
+https://cdn-1.pishow.tv/live/21/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Telugu",ETV Cinema
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Telugu",ETV Plus
-https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Telugu",ETV Plus HD
 https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Non Jio" tvg-language="Telugu",Bhakthi TV
+https://cdn-1.pishow.tv/live/397/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Tamil",Jaya Max
 http://103.72.101.252:8080/live/420.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Tamil",Jaya TV
@@ -479,45 +477,41 @@ http://103.72.101.252:8080/live/419.m3u8
 http://103.154.3.101:5001/live/2768.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png" group-title="Non Jio" tvg-language="Tamil",Kalaignar TV
 http://103.72.101.252:8080/live/1209.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="Non Jio" tvg-language="Telugu",Bhakthi TV
-https://cdn-1.pishow.tv/live/397/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" group-title="Non Jio" tvg-language="Telugu",BIG TV
 https://cdn-1.pishow.tv/live/1059/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Telugu",DD Yadagiri
-https://cdn-1.pishow.tv/live/21/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Telugu",HMTV
 https://cdn-1.pishow.tv/live/280/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Tamil",Nambikkai TV
-https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" group-title="Non Jio" tvg-language="Telugu",INews
 https://cdn-1.pishow.tv/live/411/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Tamil",Nambikkai TV
+https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGJv6QR.png" group-title="Non Jio" tvg-language="Telugu",Nireekshana TV
 https://cdn-1.pishow.tv/live/965/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Telugu",Raj Musix Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Non Jio" tvg-language="Telugu",Studio One +
 https://cdn-1.pishow.tv/live/276/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143919_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Telugu",T News
-https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Tamil",Raj News
 http://103.72.101.252:8080/live/767.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Non Jio" tvg-language="Tamil",Star Vijay HD
-http://149.71.34.166:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143919_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Telugu",T News
+https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="Non Jio" tvg-language="Urdu",4TV News
 https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Non Jio" tvg-language="Tamil",Star Vijay HD
+http://149.71.34.166:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Non Jio" tvg-language="Tamil",Travelxp Tamil
 http://103.72.101.252:8080/live/814.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Urdu",Channel WIN
-https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Urdu",DD Urdu
 https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Urdu",Channel WIN
+https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="Non Jio" tvg-language="Tamil",Zee Zest HD
 http://103.72.101.252:8080/live/2757.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Non Jio" tvg-language="Telugu",Disney Channel HD
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" group-title="Non Jio" tvg-language="Tamil",Dhool TV
-https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Non Jio" tvg-language="Telugu",History TV18 HD
 http://103.154.3.101:5001/live/577.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" group-title="Non Jio" tvg-language="Tamil",Dhool TV
+https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/MOJO_TV_LOGO.png" group-title="Non Jio" tvg-language="Telugu",Mojo TV
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
