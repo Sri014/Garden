@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 21,
+  "repaired": 20,
   "channels": [
     {
       "channel": "All Time Movies",
@@ -9,18 +9,6 @@
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
-    },
-    {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "Deewana HD",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
     },
     {
       "channel": "Colors HD",
@@ -39,6 +27,10 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+    },
+    {
       "channel": "Kabaddi 24x7",
       "url": "http://180.188.254.253/live/KABADDI24X7.m3u8"
     },
@@ -49,6 +41,10 @@
     {
       "channel": "NDTV India",
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+    },
+    {
+      "channel": "Swaraj Express SMBC",
+      "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
