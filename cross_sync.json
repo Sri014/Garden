@@ -1,26 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 17,
+  "repaired": 18,
   "channels": [
     {
-      "channel": "22Scope News",
-      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Deewana HD",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
-    },
-    {
-      "channel": "Cnews Bharat",
-      "url": "https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8"
-    },
-    {
-      "channel": "Fateh TV",
-      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+      "channel": "God Stands TV Hindi",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
       "channel": "Goldmines Movies",
@@ -31,12 +23,20 @@
       "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8"
     },
     {
-      "channel": "Mercy TV",
-      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8"
-    },
-    {
       "channel": "NDTV India",
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+    },
+    {
+      "channel": "Only Bharat",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8"
+    },
+    {
+      "channel": "Prime News",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
+    },
+    {
+      "channel": "Rongeen TV",
+      "url": "https://cdn.pishow.tv/ott/live/1029/master.m3u8"
     },
     {
       "channel": "Swaraj Express SMBC",
@@ -47,16 +47,20 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Prime News",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
-    },
-    {
       "channel": "Songdew TV",
       "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
     {
       "channel": "Unique TV",
       "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
+    },
+    {
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    },
+    {
+      "channel": "ZB Music",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
     },
     {
       "channel": "Zee Classic",
