@@ -1,14 +1,22 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 18,
+  "repaired": 20,
   "channels": [
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Fateh TV",
+      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
     },
     {
       "channel": "God Stands TV Hindi",
@@ -23,24 +31,28 @@
       "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8"
     },
     {
+      "channel": "Nation News",
+      "url": "https://server.playontv.in/nationnews/index.m3u8"
+    },
+    {
       "channel": "NDTV India",
-      "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+      "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
     },
     {
-      "channel": "Only Bharat",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8"
+      "channel": "News 1 India",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8"
     },
     {
-      "channel": "Prime News",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
+      "channel": "News 11",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8"
     },
     {
-      "channel": "Rongeen TV",
-      "url": "https://cdn.pishow.tv/ott/live/1029/master.m3u8"
+      "channel": "News 24",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8"
     },
     {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
+      "channel": "News Daily 24",
+      "url": "https://cdn.pishow.tv/ott/live/10009/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -55,14 +67,6 @@
       "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
     },
     {
-      "channel": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    },
-    {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
-    },
-    {
       "channel": "Zee Classic",
       "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
     },
@@ -73,6 +77,10 @@
     {
       "channel": "Pasand TV",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
+    },
+    {
+      "channel": "NewsX",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8"
     }
   ]
 }
