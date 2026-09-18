@@ -1,18 +1,30 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 20,
+  "repaired": 27,
   "channels": [
     {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
       "channel": "Colors Rishtey Americas",
       "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+    },
+    {
+      "channel": "Goldmines 2",
+      "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8"
+    },
+    {
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
     },
     {
       "channel": "Fateh TV",
@@ -31,6 +43,10 @@
       "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8"
     },
     {
+      "channel": "Nation News",
+      "url": "https://server.playontv.in/nationnews/index.m3u8"
+    },
+    {
       "channel": "NDTV India",
       "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
     },
@@ -39,24 +55,36 @@
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8"
     },
     {
+      "channel": "News 11",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8"
+    },
+    {
+      "channel": "News 24",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8"
+    },
+    {
+      "channel": "News Daily 24",
+      "url": "https://cdn.pishow.tv/ott/live/10009/master.m3u8"
+    },
+    {
       "channel": "News Nation 81",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
+    },
+    {
+      "channel": "News State Punjab Haryana Himachal",
+      "url": "https://jmp2.uk/stvp-IN300083R1"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Disney Channel Latin America",
-      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
-    },
-    {
       "channel": "Songdew TV",
       "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
-    },
-    {
-      "channel": "National Geographic Latin America",
-      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
     },
     {
       "channel": "Unique TV",
