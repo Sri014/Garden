@@ -1,10 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 27,
+  "repaired": 31,
   "channels": [
+    {
+      "channel": "Aastha HD",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+    },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    },
+    {
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -43,6 +51,10 @@
       "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8"
     },
     {
+      "channel": "Namdhari TV (404p)",
+      "url": "https://namdhari.tv/live/sbs1.m3u8"
+    },
+    {
       "channel": "Nation News",
       "url": "https://server.playontv.in/nationnews/index.m3u8"
     },
@@ -59,10 +71,6 @@
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8"
     },
     {
-      "channel": "News 24",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8"
-    },
-    {
       "channel": "News Daily 24",
       "url": "https://cdn.pishow.tv/ott/live/10009/master.m3u8"
     },
@@ -71,12 +79,20 @@
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
     },
     {
+      "channel": "News State MP & CHG",
+      "url": "https://jmp2.uk/stvp-IN4000012ML"
+    },
+    {
       "channel": "News State Punjab Haryana Himachal",
       "url": "https://jmp2.uk/stvp-IN300083R1"
     },
     {
       "channel": "APN",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+    },
+    {
+      "channel": "Swaraj Express SMBC",
+      "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -99,12 +115,12 @@
       "url": "http://107.167.16.138/zing/index.m3u8?token=test"
     },
     {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
-    },
-    {
       "channel": "Pasand TV",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
+    },
+    {
+      "channel": "MTV Live",
+      "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
     },
     {
       "channel": "NewsX",
