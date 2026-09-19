@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 31,
+  "repaired": 21,
   "channels": [
     {
       "channel": "Aastha HD",
@@ -11,16 +11,12 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Colors Rishtey Americas",
@@ -31,72 +27,36 @@
       "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8"
     },
     {
-      "channel": "Kalika TV",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
-    },
-    {
       "channel": "Fateh TV",
       "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
-    },
-    {
-      "channel": "God Stands TV Hindi",
-      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
       "channel": "Goldmines Movies",
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
+      "channel": "Ishwar Bhakti TV",
+      "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
+    },
+    {
+      "channel": "Kaumudy TV",
+      "url": "https://cdn.pishow.tv/ott/live/1237/master.m3u8"
+    },
+    {
       "channel": "Manoranjan TV",
       "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8"
-    },
-    {
-      "channel": "Namdhari TV (404p)",
-      "url": "https://namdhari.tv/live/sbs1.m3u8"
-    },
-    {
-      "channel": "Nation News",
-      "url": "https://server.playontv.in/nationnews/index.m3u8"
     },
     {
       "channel": "NDTV India",
       "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
     },
     {
-      "channel": "News 1 India",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8"
-    },
-    {
-      "channel": "News 11",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8"
-    },
-    {
-      "channel": "News Daily 24",
-      "url": "https://cdn.pishow.tv/ott/live/10009/master.m3u8"
-    },
-    {
-      "channel": "News Nation 81",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
-    },
-    {
-      "channel": "News State MP & CHG",
-      "url": "https://jmp2.uk/stvp-IN4000012ML"
-    },
-    {
-      "channel": "News State Punjab Haryana Himachal",
-      "url": "https://jmp2.uk/stvp-IN300083R1"
-    },
-    {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
-    },
-    {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
-    },
-    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+    },
+    {
+      "channel": "Public First",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8"
     },
     {
       "channel": "Songdew TV",
@@ -105,6 +65,10 @@
     {
       "channel": "Unique TV",
       "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
+    },
+    {
+      "channel": "Vaanavil TV",
+      "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
     },
     {
       "channel": "Zee Classic",
@@ -117,10 +81,6 @@
     {
       "channel": "Pasand TV",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
-    },
-    {
-      "channel": "MTV Live",
-      "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
     },
     {
       "channel": "NewsX",
