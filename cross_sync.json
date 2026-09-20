@@ -1,7 +1,11 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 15,
+  "repaired": 16,
   "channels": [
+    {
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+    },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
@@ -9,6 +13,10 @@
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Deewana HD",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
     },
     {
       "channel": "K News India",
@@ -21,10 +29,6 @@
     {
       "channel": "Goldmines Movies",
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
-    },
-    {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Times Now (720p)",
