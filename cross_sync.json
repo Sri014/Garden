@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 20,
+  "repaired": 15,
   "channels": [
     {
       "channel": "Bansal News",
@@ -23,16 +23,8 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Anand TV (India)",
-      "url": "https://live.legitpro.co.in/anandtv/index.m3u8"
-    },
-    {
-      "channel": "Manoranjan TV",
-      "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8"
-    },
-    {
-      "channel": "NDTV India",
-      "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -41,10 +33,6 @@
     {
       "channel": "Shemaroo Filmi Gaane",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
-    },
-    {
-      "channel": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Songdew TV",
@@ -61,14 +49,6 @@
     {
       "channel": "Zing!",
       "url": "http://107.167.16.138/zing/index.m3u8?token=test"
-    },
-    {
-      "channel": "Swaraj Express SMBC",
-      "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
-    },
-    {
-      "channel": "Pasand TV",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
