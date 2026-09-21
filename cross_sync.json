@@ -1,18 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 18,
+  "repaired": 14,
   "channels": [
     {
-      "channel": "Aastha HD",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "K News India",
@@ -27,28 +27,12 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Anand Wari TV",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
-    },
-    {
       "channel": "Swaraj Express SMBC",
       "url": "https://cdn.pishow.tv/ott/live/477/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
-    },
-    {
-      "channel": "National Geographic (United States) HD East",
-      "url": "http://198.58.104.90:8989/natgeo/index.m3u8"
     },
     {
       "channel": "Unique TV",
