@@ -1,22 +1,22 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 18,
+  "repaired": 21,
   "channels": [
     {
       "channel": "&TV HD",
       "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
     },
     {
-      "channel": "All Time Movies",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Sky Sports Cricket (United Kingdom) HD",
-      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+      "channel": "Apna Punjab TV",
+      "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -31,8 +31,16 @@
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
-      "channel": "God Stands TV Hindi",
-      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+    },
+    {
+      "channel": "Nagaland TV",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (India) (576p)",
+      "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
     },
     {
       "channel": "Goldmines Movies",
@@ -47,12 +55,12 @@
       "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
     },
     {
-      "channel": "National Geographic (Croatia)",
-      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
-    },
-    {
       "channel": "National Geographic Latin America",
       "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
     },
     {
       "channel": "National Geographic (United States)",
@@ -61,6 +69,10 @@
     {
       "channel": "Northeast Live",
       "url": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8"
+    },
+    {
+      "channel": "Taaza TV",
+      "url": "https://live.we2live.in/taazatv/live/playlist.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
