@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 15,
+  "repaired": 17,
   "channels": [
     {
       "channel": "&TV HD",
@@ -15,40 +15,48 @@
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
-      "channel": "Goldmines Movies",
-      "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
-    },
-    {
       "channel": "National Geographic (India) (576p)",
       "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+    },
+    {
+      "channel": "Network 10",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8"
+    },
+    {
+      "channel": "Goldmines Movies",
+      "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Disney Channel Latin America Center",
-      "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8"
+      "channel": "Disney Channel Latin America",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
     },
     {
-      "channel": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      "channel": "National Geographic Latin America",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (United States)",
+      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
     },
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
-    },
-    {
-      "channel": "Taaza TV",
-      "url": "https://live.we2live.in/taazatv/live/playlist.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
