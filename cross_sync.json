@@ -7,16 +7,16 @@
       "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
     },
     {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+      "channel": "Sky Sports Cricket (United Kingdom) HD",
+      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
-      "channel": "Bansal News",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
     },
     {
       "channel": "Colors Rishtey Americas",
@@ -25,6 +25,10 @@
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+    },
+    {
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
     },
     {
       "channel": "National Geographic (India) (576p)",
@@ -41,10 +45,6 @@
     {
       "channel": "ZB Cartoon",
       "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    },
-    {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
     },
     {
       "channel": "YET Max",
