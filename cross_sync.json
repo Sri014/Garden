@@ -1,38 +1,66 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 15,
+  "repaired": 26,
   "channels": [
     {
-      "channel": "Bansal News",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+      "channel": "Sky Sports Cricket (United Kingdom) HD",
+      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "K News India",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+      "channel": "22Scope News",
+      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
+      "channel": "Anand TV (India)",
+      "url": "https://live.legitpro.co.in/anandtv/index.m3u8"
+    },
+    {
+      "channel": "ANB News",
+      "url": "https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8"
+    },
+    {
+      "channel": "Cnews Bharat",
+      "url": "https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8"
     },
     {
       "channel": "National Geographic (India) (576p)",
       "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
     },
     {
-      "channel": "Sky Sports Cricket (United Kingdom) HD",
-      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
-    },
-    {
-      "channel": "Star Sports Select 2 HD",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8"
+      "channel": "Fateh TV (1080p)",
+      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
     },
     {
       "channel": "Goldmines Movies",
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
+      "channel": "HNN 24x7",
+      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8"
+    },
+    {
+      "channel": "K News India",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+    },
+    {
+      "channel": "Namdhari TV (404p)",
+      "url": "https://namdhari.tv/live/sbs1.m3u8"
+    },
+    {
+      "channel": "NSC9 News",
+      "url": "https://legitpro.co.in/nsc9/index.m3u8"
     },
     {
       "channel": "ZB Cartoon",
@@ -43,12 +71,28 @@
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
+      "channel": "Sudarshan News",
+      "url": "https://cdn.pishow.tv/ott/live/1516/master.m3u8"
+    },
+    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
+      "channel": "The Voice TV",
+      "url": "https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8"
+    },
+    {
+      "channel": "TV45",
+      "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8"
+    },
+    {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+    },
+    {
+      "channel": "Prime News",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
