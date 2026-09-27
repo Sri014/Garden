@@ -1,26 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 18,
+  "repaired": 22,
   "channels": [
     {
-      "channel": "Sky Sports Cricket (United Kingdom) HD",
-      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
-    },
-    {
-      "channel": "Andy Haryana",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+      "channel": "All Time Movies",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Cricket Gold",
-      "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
+      "channel": "Sky Sports Cricket (United Kingdom) HD",
+      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "K News India",
@@ -35,16 +35,28 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Sharnam TV",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8"
-    },
-    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Sony Max 2",
-      "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
+      "channel": "Disney Channel Latin America",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
+    },
+    {
+      "channel": "Disney Jr. Latin America",
+      "url": "http://190.14.10.19:16000/play/a02d/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Latin America",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (United States)",
+      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
     },
     {
       "channel": "National Geographic (Russia) HD",
@@ -55,12 +67,16 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
+      "channel": "Sony Max 2",
+      "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
+    },
+    {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
-      "channel": "Sudarshan News",
-      "url": "https://cdn.pishow.tv/ott/live/1516/master.m3u8"
+      "channel": "Disney Channel Latin America Center",
+      "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
