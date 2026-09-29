@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 19,
+  "repaired": 20,
   "channels": [
     {
       "channel": "Unite8 Sports 2",
@@ -11,12 +11,16 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
+      "channel": "Aastha HD",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+    },
+    {
       "channel": "Sky Sports Cricket (United Kingdom) HD",
       "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
     },
     {
-      "channel": "All Time Movies",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -27,12 +31,16 @@
       "url": "http://202.70.146.135:8000/play/a01q/index.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
-    },
-    {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+    },
+    {
+      "channel": "Kanshi TV (720p)",
+      "url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
+    },
+    {
+      "channel": "Nagaland TV",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8"
     },
     {
       "channel": "National Geographic (India) (576p)",
@@ -41,10 +49,6 @@
     {
       "channel": "Goldmines Movies",
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
-    },
-    {
-      "channel": "Sana Plus",
-      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
     },
     {
       "channel": "Times Now (720p)",
