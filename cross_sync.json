@@ -1,7 +1,11 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 22,
+  "repaired": 21,
   "channels": [
+    {
+      "channel": "Aastha HD",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+    },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
@@ -16,7 +20,7 @@
     },
     {
       "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -29,10 +33,6 @@
     {
       "channel": "Colors Rishtey Americas",
       "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "Star Sports 2 Telugu HD",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
     },
     {
       "channel": "Disney Channel (India)",
@@ -57,10 +57,6 @@
     {
       "channel": "Star Sports 2 HD",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
-    },
-    {
-      "channel": "Star Sports 2 Hindi",
-      "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
     },
     {
       "channel": "National Geographic (Russia) HD",
