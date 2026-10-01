@@ -1,11 +1,7 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 21,
+  "repaired": 23,
   "channels": [
-    {
-      "channel": "Aastha HD",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
-    },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
@@ -15,24 +11,12 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Sky Sports Cricket (United Kingdom) HD",
-      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
-    },
-    {
       "channel": "Bansal News",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "Disney Channel (India)",
@@ -43,20 +27,40 @@
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
-      "channel": "National Geographic (India) (576p)",
-      "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+      "channel": "Nagaland TV",
+      "url": "http://51.75.127.199:3141/nltv/index.m3u8"
     },
     {
       "channel": "Goldmines Movies",
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
+      "channel": "Sarv Dharam Sangam",
+      "url": "http://51.75.127.199:3141/manavdharam/index.m3u8"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Star Sports 2 HD",
-      "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
+      "channel": "INH 24x7",
+      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
+    },
+    {
+      "channel": "Sony Max 2",
+      "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
+    },
+    {
+      "channel": "Disney Jr. Latin America North HD",
+      "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
+    },
+    {
+      "channel": "YET Max",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+    },
+    {
+      "channel": "Santvani Channel",
+      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
     },
     {
       "channel": "National Geographic (Russia) HD",
@@ -67,12 +71,16 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "Sony Max 2",
-      "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
+      "channel": "Disney Channel Latin America Mexico",
+      "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8"
     },
     {
-      "channel": "YET Max",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+      "channel": "Total TV Haryana",
+      "url": "https://cdn.pishow.tv/ott/live/1522/master.m3u8"
+    },
+    {
+      "channel": "National Geographic (Netherlands) HD",
+      "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
