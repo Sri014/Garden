@@ -23,20 +23,20 @@
       "url": "http://202.70.146.135:8000/play/a01q/index.m3u8"
     },
     {
+      "channel": "IN 24 News",
+      "url": "http://51.75.127.199:3141/in24news/index.m3u8"
+    },
+    {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
-      "channel": "Kalika TV",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+      "channel": "Nagaland TV",
+      "url": "http://51.75.127.199:3141/nltv/index.m3u8"
     },
     {
       "channel": "9XM",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
-      "channel": "Nagaland TV",
-      "url": "http://51.75.127.199:3141/nltv/index.m3u8"
     },
     {
       "channel": "Goldmines Movies",
@@ -47,8 +47,8 @@
       "url": "http://51.75.127.199:3141/manavdharam/index.m3u8"
     },
     {
-      "channel": "Sony Max (576p)",
-      "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0"
+      "channel": "Shemaroo Josh",
+      "url": "https://cdn.pishow.tv/ott/live/337/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -63,36 +63,36 @@
       "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
     },
     {
-      "channel": "Zee Classic",
-      "url": "http://51.75.127.199:3141/zeeclassic/index.m3u8"
+      "channel": "ZB Music",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
     },
     {
       "channel": "Disney Jr. Latin America North HD",
       "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
     },
     {
-      "channel": "Santvani Channel",
-      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
+      "channel": "National Geographic (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
-      "channel": "National Geographic (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-    },
-    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "Total TV Haryana",
-      "url": "https://cdn.pishow.tv/ott/live/1522/master.m3u8"
+      "channel": "Santvani Channel",
+      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands) HD",
       "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8"
+    },
+    {
+      "channel": "Total TV Haryana",
+      "url": "https://cdn.pishow.tv/ott/live/1522/master.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
