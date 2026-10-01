@@ -1,22 +1,22 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 23,
+  "repaired": 26,
   "channels": [
-    {
-      "channel": "Unite8 Sports 2",
-      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
-    },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "Anjan TV",
+      "url": "https://cdn.pishow.tv/ott/live/993/master.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Disney Channel (India)",
@@ -25,6 +25,14 @@
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+    },
+    {
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "Nagaland TV",
@@ -39,6 +47,10 @@
       "url": "http://51.75.127.199:3141/manavdharam/index.m3u8"
     },
     {
+      "channel": "Sony Max (576p)",
+      "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
@@ -51,16 +63,20 @@
       "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
     },
     {
+      "channel": "Zee Classic",
+      "url": "http://51.75.127.199:3141/zeeclassic/index.m3u8"
+    },
+    {
       "channel": "Disney Jr. Latin America North HD",
       "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
     },
     {
-      "channel": "YET Max",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
-    },
-    {
       "channel": "Santvani Channel",
       "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
+    },
+    {
+      "channel": "YET Max",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
       "channel": "National Geographic (Russia) HD",
@@ -69,10 +85,6 @@
     {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America Mexico",
-      "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8"
     },
     {
       "channel": "Total TV Haryana",
