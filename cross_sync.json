@@ -1,42 +1,30 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 36,
+  "repaired": 32,
   "channels": [
-    {
-      "channel": "&TV HD",
-      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
-    },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "Aastha HD",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+      "channel": "&TV HD",
+      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
-      "channel": "BVG",
-      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "CVR Health",
@@ -47,12 +35,12 @@
       "url": "http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8"
     },
     {
-      "channel": "Star Sports 2 Telugu HD",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
-    },
-    {
       "channel": "Disney Channel (India)",
       "url": "http://202.70.146.135:8000/play/a01q/index.m3u8"
+    },
+    {
+      "channel": "IN 24 News",
+      "url": "http://51.75.127.199:3141/in24news/index.m3u8"
     },
     {
       "channel": "K News India",
@@ -63,10 +51,6 @@
       "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
     {
-      "channel": "Nagaland TV",
-      "url": "http://51.75.127.199:3141/nltv/index.m3u8"
-    },
-    {
       "channel": "9XM",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
@@ -75,12 +59,12 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Sadhna News Madhya Pradesh/Chhattisgarh",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8"
-    },
-    {
       "channel": "Sarv Dharam Sangam",
       "url": "http://51.75.127.199:3141/manavdharam/index.m3u8"
+    },
+    {
+      "channel": "Prime News",
+      "url": "https://cdn.pishow.tv/ott/live/1027/master.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -95,32 +79,32 @@
       "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8"
     },
     {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Disney Jr. Latin America North HD",
       "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
     },
     {
-      "channel": "Santvani Channel",
-      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
+      "channel": "National Geographic (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
-      "channel": "National Geographic (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-    },
-    {
-      "channel": "Soham TV",
-      "url": "http://51.75.127.199:3141/sohamtv/index.m3u8"
-    },
-    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
+    },
+    {
+      "channel": "Nick HD+",
+      "url": "http://51.75.127.199:3141/nickhd/index.m3u8"
+    },
+    {
+      "channel": "Santvani Channel",
+      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
     },
     {
       "channel": "VH1",
