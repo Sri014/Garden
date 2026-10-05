@@ -1,14 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 30,
+  "repaired": 37,
   "channels": [
     {
-      "channel": "&TV HD",
-      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
+      "channel": "Sony Sports Ten 1",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
+    },
+    {
+      "channel": "Sony Sports Ten 4",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten4.m3u8"
+    },
+    {
+      "channel": "Sony Sports Ten 5",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
     },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
+    },
+    {
+      "channel": "&TV HD",
+      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
     },
     {
       "channel": "T Sports",
@@ -19,20 +31,12 @@
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
+      "channel": "Bansal News",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+    },
+    {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
-    },
-    {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "CVR Health",
@@ -41,10 +45,6 @@
     {
       "channel": "Colors Cineplex Bollywood",
       "url": "http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8"
-    },
-    {
-      "channel": "Anand TV (India)",
-      "url": "https://live.legitpro.co.in/anandtv/index.m3u8"
     },
     {
       "channel": "Disney Channel (India)",
@@ -59,8 +59,8 @@
       "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
     },
     {
-      "channel": "Mangalmay TV",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "Nagaland TV",
@@ -71,6 +71,14 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
+      "channel": "Sony Pix HD",
+      "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8"
+    },
+    {
+      "channel": "Sony Yay!",
+      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
@@ -79,16 +87,40 @@
       "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8"
     },
     {
+      "channel": "Disney Channel Latin America",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
+    },
+    {
       "channel": "Disney Jr. Latin America North HD",
       "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
     },
     {
-      "channel": "National Geographic (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
+    },
+    {
+      "channel": "Rongeen TV",
+      "url": "http://51.75.127.199:3141/rongeentv/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Latin America",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
     },
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+    },
+    {
+      "channel": "National Geographic (United States)",
+      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
+    },
+    {
+      "channel": "Santvani Channel",
+      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
+    },
+    {
+      "channel": "National Geographic (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
@@ -97,10 +129,6 @@
     {
       "channel": "VH1",
       "url": "http://193.254.245.162/VH1/index.m3u8"
-    },
-    {
-      "channel": "Santvani Channel",
-      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
     },
     {
       "channel": "Total TV Haryana",
