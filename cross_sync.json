@@ -1,18 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 46,
+  "repaired": 42,
   "channels": [
-    {
-      "channel": "Sony Sports Ten 1 HD",
-      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
-    },
-    {
-      "channel": "Sony Sports Ten 2",
-      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
-    },
     {
       "channel": "Sony Sports Ten 5",
       "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
+    },
+    {
+      "channel": "Sony Sports Ten 2 HD",
+      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
+    },
+    {
+      "channel": "Sony Sports Ten 1",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
     },
     {
       "channel": "Sony Sports Ten 4",
@@ -31,64 +31,44 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
       "channel": "9XM",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    },
+    {
+      "channel": "All Time Movies",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "ANB News",
-      "url": "https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
-      "channel": "Mangalmay TV",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
-    },
-    {
       "channel": "Nagaland TV",
       "url": "http://51.75.127.199:3141/nltv/index.m3u8"
-    },
-    {
-      "channel": "News 21",
-      "url": "http://51.75.127.199:3141/news21/index.m3u8"
-    },
-    {
-      "channel": "Ishwar Bhakti TV",
-      "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
     },
     {
       "channel": "Goldmines Movies",
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Namdhari TV (404p)",
-      "url": "https://namdhari.tv/live/sbs1.m3u8"
+      "channel": "Sony Pix HD",
+      "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8"
     },
     {
       "channel": "Sony Sports Ten 3 Hindi",
       "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls"
-    },
-    {
-      "channel": "Sony Pix HD",
-      "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8"
     },
     {
       "channel": "Sony Yay!",
@@ -97,6 +77,10 @@
     {
       "channel": "Star Sports 2",
       "url": "http://51.75.127.199:3141/starsports2/index.m3u8"
+    },
+    {
+      "channel": "Superhitz",
+      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -111,12 +95,20 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "MTV Biggest Pop",
-      "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
+      "channel": "MTV Flow Latino",
+      "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8"
     },
     {
       "channel": "Santvani Channel",
       "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
+    },
+    {
+      "channel": "MTV Spankin' New CA",
+      "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
+    },
+    {
+      "channel": "MTV Biggest Pop",
+      "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
     },
     {
       "channel": "MTV Biggest Pop CA",
@@ -135,14 +127,6 @@
       "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"
     },
     {
-      "channel": "MTV Spankin' New CA",
-      "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
-    },
-    {
-      "channel": "MTV Flow Latino",
-      "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8"
-    },
-    {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
@@ -155,16 +139,12 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "Yo! MTV CA",
-      "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
-    },
-    {
       "channel": "VH1",
       "url": "http://193.254.245.162/VH1/index.m3u8"
     },
     {
-      "channel": "TNP News",
-      "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8"
+      "channel": "Yo! MTV CA",
+      "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
     },
     {
       "channel": "Total TV Haryana",
@@ -185,6 +165,10 @@
     {
       "channel": "NewsX",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8"
+    },
+    {
+      "channel": "Nick HD+",
+      "url": "http://51.75.127.199:3141/nickhd/index.m3u8"
     }
   ]
 }
