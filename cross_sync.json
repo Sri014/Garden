@@ -1,22 +1,22 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 54,
+  "repaired": 62,
   "channels": [
     {
-      "channel": "Sony Sports Ten 5",
-      "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
+      "channel": "Sony Sports Ten 1",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
     },
     {
       "channel": "Sony Sports Ten 2 HD",
       "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
     },
     {
-      "channel": "Sony Sports Ten 1 HD",
-      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
-    },
-    {
       "channel": "Sony Sports Ten 4",
       "url": "https://cloudplay-sonyliv.pages.dev/ten4.m3u8"
+    },
+    {
+      "channel": "Sony Sports Ten 5",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
     },
     {
       "channel": "Star Sports 1",
@@ -27,16 +27,16 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "&TV HD",
+      "channel": "&TV",
       "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
-    },
-    {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -47,6 +47,10 @@
       "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls"
     },
     {
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+    },
+    {
       "channel": "Disney Channel (India)",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
     },
@@ -55,12 +59,12 @@
       "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8"
     },
     {
-      "channel": "Fateh TV",
-      "url": "https://cdn.pishow.tv/ott/live/349/master.m3u8"
-    },
-    {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
+      "channel": "Fateh TV",
+      "url": "https://cdn.pishow.tv/ott/live/349/master.m3u8"
     },
     {
       "channel": "History TV18 HD",
@@ -75,6 +79,10 @@
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+    },
+    {
       "channel": "National Geographic (India)",
       "url": "http://51.75.127.199:3141/natgeohd/index.m3u8"
     },
@@ -87,6 +95,10 @@
       "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
     },
     {
+      "channel": "Sharnam TV",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8"
+    },
+    {
       "channel": "Sony Pix HD",
       "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8"
     },
@@ -97,10 +109,6 @@
     {
       "channel": "Sony Yay!",
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
-    },
-    {
-      "channel": "Star Gold 2",
-      "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls"
     },
     {
       "channel": "Star Movies (India)",
@@ -123,16 +131,16 @@
       "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
     },
     {
+      "channel": "Star Sports 3",
+      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
       "channel": "Total TV Haryana",
       "url": "https://cdn.pishow.tv/ott/live/1522/master.m3u8"
-    },
-    {
-      "channel": "Star Sports 3",
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
     {
       "channel": "TV27 News",
@@ -147,20 +155,40 @@
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
     },
     {
+      "channel": "Animal Planet Latin America HD (720p)",
+      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Latin America Brazil (720p)",
+      "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8"
+    },
+    {
+      "channel": "Disney Channel Latin America",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
+    },
+    {
       "channel": "FashionTV (India)",
       "url": "http://51.75.127.199:3141/ftvhd/index.m3u8"
     },
     {
-      "channel": "Travelxp HD",
-      "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
+      "channel": "MTV Biggest Pop CA",
+      "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
+    },
+    {
+      "channel": "MTV Classic CA",
+      "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
+    },
+    {
+      "channel": "Investigation Discovery (1080p)",
+      "url": "http://212.5.144.156:8080/id/index.m3u8"
     },
     {
       "channel": "MTV Biggest Pop",
       "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
     },
     {
-      "channel": "MTV Classic CA",
-      "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
+      "channel": "National Geographic Latin America",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
     },
     {
       "channel": "MTV Flow Latino",
@@ -179,28 +207,32 @@
       "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
     },
     {
-      "channel": "National Geographic (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+      "channel": "National Geographic (United States)",
+      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "MTV Biggest Pop CA",
-      "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
-    },
-    {
-      "channel": "VH1",
-      "url": "http://193.254.245.162/VH1/index.m3u8"
+      "channel": "National Geographic (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "Yo! MTV CA",
       "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
     },
     {
+      "channel": "VH1",
+      "url": "http://193.254.245.162/VH1/index.m3u8"
+    },
+    {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Latin America North Atlantic",
+      "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands) HD",
