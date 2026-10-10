@@ -1,50 +1,42 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 57,
+  "repaired": 56,
   "channels": [
     {
-      "channel": "Sony Sports Ten 1 HD",
-      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
-    },
-    {
-      "channel": "Sony Sports Ten 5",
-      "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
-    },
-    {
-      "channel": "Sony Sports Ten 2 HD",
-      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
+      "channel": "Unite8 Sports 2 HD",
+      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
       "channel": "Star Sports 1",
       "url": "http://51.75.127.199:3141/starsports1/index.m3u8"
     },
     {
-      "channel": "Unite8 Sports 2 HD",
-      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
+      "channel": "Sony Sports Ten 5",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8"
     },
     {
       "channel": "Sony Sports Ten 4",
       "url": "https://cloudplay-sonyliv.pages.dev/ten4.m3u8"
     },
     {
-      "channel": "&TV HD",
+      "channel": "Sony Sports Ten 2",
+      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls"
+    },
+    {
+      "channel": "Sony Sports Ten 1 HD",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8"
+    },
+    {
+      "channel": "&TV",
       "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
     },
     {
-      "channel": "Aastha HD",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+      "channel": "9XM",
+      "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "Bansal News",
@@ -59,8 +51,8 @@
       "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls"
     },
     {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+      "channel": "Deewana HD",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
     },
     {
       "channel": "Disney Channel (India)",
@@ -103,20 +95,16 @@
       "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8"
     },
     {
-      "channel": "Anand Wari TV",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
-    },
-    {
-      "channel": "Sony Sports Ten 3 Hindi HD",
+      "channel": "Sony Sports Ten 3 Hindi",
       "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls"
-    },
-    {
-      "channel": "Sony Pix HD",
-      "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8"
     },
     {
       "channel": "Sony Yay!",
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
+    },
+    {
+      "channel": "Sony Pix HD",
+      "url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8"
     },
     {
       "channel": "Star Movies (India)",
@@ -133,6 +121,10 @@
     {
       "channel": "STV Haryana News",
       "url": "http://51.75.127.199:3141/stvharyananews/index.m3u8"
+    },
+    {
+      "channel": "Superhitz",
+      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -163,8 +155,12 @@
       "url": "http://51.75.127.199:3141/ftvhd/index.m3u8"
     },
     {
-      "channel": "MTV Biggest Pop CA",
-      "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
+      "channel": "MTV Biggest Pop",
+      "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
+    },
+    {
+      "channel": "MTV Classic CA",
+      "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
     },
     {
       "channel": "MTV Flow Latino",
@@ -175,32 +171,24 @@
       "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"
     },
     {
-      "channel": "MTV Spankin' New CA",
-      "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
-    },
-    {
-      "channel": "MTV Biggest Pop",
-      "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
-    },
-    {
-      "channel": "National Geographic (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-    },
-    {
-      "channel": "MTV Classic CA",
-      "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
-    },
-    {
-      "channel": "National Geographic Wild (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
+      "channel": "MTV Biggest Pop CA",
+      "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
     },
     {
       "channel": "MTV Flow Latino LatAm",
       "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8"
     },
     {
-      "channel": "Yo! MTV CA",
-      "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
+      "channel": "MTV Spankin' New CA",
+      "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
+    },
+    {
+      "channel": "National Geographic (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
       "channel": "VH1",
@@ -211,12 +199,20 @@
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
+      "channel": "Yo! MTV CA",
+      "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
+    },
+    {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands) HD",
       "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8"
+    },
+    {
+      "channel": "Super Hungama",
+      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
