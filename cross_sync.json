@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 31,
+  "repaired": 28,
   "channels": [
     {
       "channel": "&TV HD",
@@ -51,8 +51,8 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Anand Wari TV",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
+      "channel": "Sony Pix HD",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -67,14 +67,6 @@
       "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
     },
     {
-      "channel": "Cartoon Network (Italy) HD",
-      "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073"
-    },
-    {
-      "channel": "Sony Yay!",
-      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
-    },
-    {
       "channel": "National Geographic (Czech Republic)",
       "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8"
     },
@@ -83,8 +75,8 @@
       "url": "http://88.212.15.19/live/ngc_hun/index.m3u8"
     },
     {
-      "channel": "MTV Classic BR",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
+      "channel": "Sony Yay!",
+      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
       "channel": "National Geographic Wild (Hungary)",
@@ -95,16 +87,12 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "VH1",
-      "url": "http://193.254.245.162/VH1/index.m3u8"
+      "channel": "National Geographic (Russia)",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
-    },
-    {
-      "channel": "National Geographic (Russia)",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America North Atlantic",
