@@ -3,6 +3,10 @@
   "repaired": 31,
   "channels": [
     {
+      "channel": "&TV HD",
+      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
+    },
+    {
       "channel": "Star Sports 1",
       "url": "http://51.75.127.199:3141/starsports1/index.m3u8"
     },
@@ -11,28 +15,20 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "&TV",
-      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
-    },
-    {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
       "channel": "9XM",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
-    },
-    {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aryan TV National",
@@ -41,6 +37,10 @@
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+    },
+    {
+      "channel": "Mangalmay TV",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
     {
       "channel": "Disney Channel (India) HD",
@@ -69,10 +69,6 @@
     {
       "channel": "Cartoon Network (Italy) HD",
       "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073"
-    },
-    {
-      "channel": "Animal Planet (Russia)",
-      "url": "http://stream.mcquack.net/114/index.m3u8"
     },
     {
       "channel": "Sony Yay!",
@@ -113,6 +109,10 @@
     {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
+    },
+    {
+      "channel": "MTV Live",
+      "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
