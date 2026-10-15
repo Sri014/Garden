@@ -1,14 +1,14 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 44,
+  "repaired": 30,
   "channels": [
-    {
-      "channel": "&TV HD",
-      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
-    },
     {
       "channel": "Star Sports 1",
       "url": "http://51.75.127.199:3141/starsports1/index.m3u8"
+    },
+    {
+      "channel": "&TV",
+      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
     },
     {
       "channel": "Unite8 Sports 2",
@@ -17,10 +17,6 @@
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "9XM",
@@ -39,32 +35,8 @@
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
-      "channel": "Star Sports Select 2 HD",
-      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
-    },
-    {
-      "channel": "ETV Bal Bharat",
-      "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
-    },
-    {
-      "channel": "Hungama TV",
-      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
-    },
-    {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
-    },
-    {
-      "channel": "Mangalmay TV",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
-    },
-    {
-      "channel": "National Geographic (India) HD",
-      "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
-    },
-    {
-      "channel": "National Geographic Wild (India) HD",
-      "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
     },
     {
       "channel": "Disney Channel (India) HD",
@@ -75,12 +47,12 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Prime News",
-      "url": "https://cdn.pishow.tv/ott/live/1027/master.m3u8"
-    },
-    {
       "channel": "Sony Pix HD",
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
+    },
+    {
+      "channel": "SVBC 4",
+      "url": "https://mumt05.tangotv.in/87NeALx2SVBC4HINDI/index.m3u8"
     },
     {
       "channel": "Star Sports 3",
@@ -95,16 +67,16 @@
       "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
     },
     {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
-    },
-    {
-      "channel": "Sony Yay!",
-      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Investigation Discovery (Russia)",
       "url": "http://stream.mcquack.net/205/index.m3u8"
+    },
+    {
+      "channel": "Sony Yay!",
+      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands)",
@@ -131,32 +103,12 @@
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
-      "channel": "Vaanavil TV",
-      "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Russia)",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-    },
-    {
-      "channel": "Cartoon Network (United States)",
-      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
-    },
-    {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
-      "channel": "Cartoon Network CEE Czech Republic",
-      "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8"
-    },
-    {
-      "channel": "Investigation Discovery (Hungary)",
-      "url": "http://88.212.15.17/live/id_hun/index.m3u8"
-    },
-    {
-      "channel": "MTV Flow Latino",
-      "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8"
+      "channel": "National Geographic (Russia)",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
@@ -169,14 +121,6 @@
     {
       "channel": "NewsX",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8"
-    },
-    {
-      "channel": "Yo! MTV",
-      "url": "https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8"
-    },
-    {
-      "channel": "Yo! MTV CA",
-      "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
     }
   ]
 }
