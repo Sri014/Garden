@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 28,
+  "repaired": 35,
   "channels": [
     {
       "channel": "&TV HD",
@@ -19,12 +19,16 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "All Time Movies",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "9XM",
@@ -33,6 +37,18 @@
     {
       "channel": "Star Sports Select 2 HD",
       "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
+      "channel": "God Stands TV Hindi",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+    },
+    {
+      "channel": "Cnews Bharat",
+      "url": "https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8"
     },
     {
       "channel": "K News India",
@@ -47,12 +63,20 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
+      "channel": "Star Gold 2 HD",
+      "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls"
+    },
+    {
       "channel": "Star Sports 3",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
     {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+    },
+    {
+      "channel": "Travelxp HD",
+      "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
     },
     {
       "channel": "Zee Cinemalu HD",
@@ -63,16 +87,12 @@
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
-      "channel": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      "channel": "National Geographic (Czech Republic)",
+      "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Czech Republic)",
-      "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8"
     },
     {
       "channel": "National Geographic (Hungary)",
@@ -101,6 +121,14 @@
     {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
+    },
+    {
+      "channel": "Disney Channel Latin America Center",
+      "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8"
+    },
+    {
+      "channel": "Disney Channel Latin America Mexico",
+      "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
