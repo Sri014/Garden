@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 32,
+  "repaired": 26,
   "channels": [
     {
       "channel": "&TV HD",
@@ -11,16 +11,24 @@
       "url": "http://51.75.127.199:3141/starsports1/index.m3u8"
     },
     {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
+      "channel": "Aastha HD",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+    },
+    {
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+    },
+    {
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    },
+    {
+      "channel": "All Time Movies",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "Bansal News",
@@ -31,12 +39,8 @@
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Star Sports Select 2 HD",
-      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "K News India",
@@ -51,18 +55,6 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
-    },
-    {
-      "channel": "Anand Wari TV",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
-    },
-    {
-      "channel": "Sony Pix HD",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
-    },
-    {
       "channel": "Star Sports 3",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
@@ -75,8 +67,8 @@
       "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
     },
     {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Sony Yay!",
@@ -85,18 +77,6 @@
     {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Czech Republic)",
-      "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Hungary)",
-      "url": "http://88.212.15.19/live/ngc_hun/index.m3u8"
-    },
-    {
-      "channel": "National Geographic Wild (Hungary)",
-      "url": "http://88.212.15.19/live/ngw_hun/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
@@ -109,10 +89,6 @@
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
-    },
-    {
-      "channel": "Cartoon Network (United States)",
-      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America North Atlantic",
