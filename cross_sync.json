@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 25,
+  "repaired": 28,
   "channels": [
     {
       "channel": "&TV HD",
@@ -19,6 +19,14 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+    },
+    {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
@@ -27,20 +35,16 @@
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+    },
+    {
+      "channel": "Bollygold",
+      "url": "https://jmp2.uk/stvp-IN4000600Q"
     },
     {
       "channel": "Disney Channel (India) HD",
@@ -63,8 +67,8 @@
       "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
     },
     {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
+      "channel": "Animal Planet (Russia)",
+      "url": "http://stream.mcquack.net/114/index.m3u8"
     },
     {
       "channel": "Sony Yay!",
@@ -75,6 +79,10 @@
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
+      "channel": "YET Max",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+    },
+    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
@@ -83,12 +91,16 @@
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
-      "channel": "YET Max",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+      "channel": "Sonic",
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
+    },
+    {
+      "channel": "Super Hungama",
+      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
