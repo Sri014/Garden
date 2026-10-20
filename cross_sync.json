@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 32,
+  "repaired": 42,
   "channels": [
     {
       "channel": "&TV HD",
@@ -15,48 +15,60 @@
       "url": "http://51.75.127.199:3141/starsports1/index.m3u8"
     },
     {
-      "channel": "Aastha HD",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Aastha Prime 1",
       "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "Aastha HD",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
     },
     {
       "channel": "All Time Movies",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+      "channel": "Star Sports Select 2 HD",
+      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+    },
+    {
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
+      "channel": "Bollygold",
+      "url": "https://jmp2.uk/stvp-IN4000600Q"
+    },
+    {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
+    },
+    {
+      "channel": "Mangalmay TV",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    },
+    {
+      "channel": "Mh 1 Music",
+      "url": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8"
     },
     {
       "channel": "God Stands TV Hindi",
@@ -67,20 +79,40 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "NH BollyFlix",
-      "url": "https://jmp2.uk/stvp-IN46000140Q"
+      "channel": "Nation News",
+      "url": "https://server.playontv.in/nationnews/index.m3u8"
     },
     {
-      "channel": "NH BollyRaga",
-      "url": "https://jmp2.uk/stvp-IN460001373"
+      "channel": "News 1 India",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8"
     },
     {
-      "channel": "Peace of Mind TV",
-      "url": "https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8"
+      "channel": "News 11",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8"
     },
     {
-      "channel": "Sach Bedhadak",
-      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8"
+      "channel": "News Nation 81",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
+    },
+    {
+      "channel": "News State Punjab Haryana Himachal",
+      "url": "https://jmp2.uk/stvp-IN300083R1"
+    },
+    {
+      "channel": "News State UP & UK",
+      "url": "https://jmp2.uk/stvp-IN3000846P"
+    },
+    {
+      "channel": "News18 Delhi NCR JK",
+      "url": "https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8"
+    },
+    {
+      "channel": "ETV Beats",
+      "url": "https://jmp2.uk/stvp-IN4900002RV"
+    },
+    {
+      "channel": "Sony Pix HD",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -91,36 +123,40 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Zee Cinemalu HD",
-      "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
+      "channel": "Sony Yay!",
+      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
-      "channel": "Sony Yay!",
-      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
-    },
-    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
-    },
-    {
-      "channel": "National Geographic (Russia)",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "YET Max",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
+      "channel": "National Geographic (Russia)",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network (United States)",
+      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Asia",
+      "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8"
+    },
+    {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
-      "channel": "National Geographic (Bulgaria)",
-      "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8"
+      "channel": "Sangeet Bhojpuri",
+      "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
     },
     {
       "channel": "National Geographic Wild (Bulgaria)",
@@ -129,6 +165,10 @@
     {
       "channel": "NewsX",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (Bulgaria)",
+      "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8"
     }
   ]
 }
