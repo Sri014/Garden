@@ -1,11 +1,7 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 38,
+  "repaired": 44,
   "channels": [
-    {
-      "channel": "Star Sports 1",
-      "url": "http://51.75.127.199:3141/starsports1/index.m3u8"
-    },
     {
       "channel": "&TV",
       "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
@@ -15,36 +11,60 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
       "channel": "Fox Sports 2 (576i)",
       "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+    },
+    {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
+    },
+    {
+      "channel": "ETV Bal Bharat",
+      "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
+    },
+    {
+      "channel": "Hungama TV",
+      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
     {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+    },
+    {
+      "channel": "National Geographic (India) HD",
+      "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
+    },
+    {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "God Stands TV Hindi",
@@ -55,20 +75,28 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Sach Bedhadak",
-      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8"
+      "channel": "News Daily 24",
+      "url": "https://cdn.pishow.tv/ott/live/10009/master.m3u8"
     },
     {
-      "channel": "Sadhna News Madhya Pradesh/Chhattisgarh",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8"
+      "channel": "News Nation 81",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
     },
     {
-      "channel": "Times Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+      "channel": "News State Punjab Haryana Himachal",
+      "url": "https://jmp2.uk/stvp-IN300083R1"
+    },
+    {
+      "channel": "News State UP & UK",
+      "url": "https://jmp2.uk/stvp-IN3000846P"
     },
     {
       "channel": "Star Sports 3",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+    },
+    {
+      "channel": "Times Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
       "channel": "Animal Planet Latin America HD (720p)",
@@ -79,16 +107,12 @@
       "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
     },
     {
-      "channel": "Disney Channel Latin America Panregional HD",
-      "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+      "channel": "Sony Yay!",
+      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
-    },
-    {
-      "channel": "Sony Yay!",
-      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
@@ -123,12 +147,12 @@
       "url": "http://57.128.231.171:8080/317/index.m3u8"
     },
     {
-      "channel": "National Geographic (Russia)",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-    },
-    {
       "channel": "Cartoon Network CEE Poland",
       "url": "http://57.128.231.171:8080/293/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (Russia)",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America North Atlantic",
