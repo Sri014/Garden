@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 41,
+  "repaired": 36,
   "channels": [
     {
       "channel": "&TV HD",
@@ -11,16 +11,16 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "Fox Sports 2 (576i)",
-      "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    },
+    {
+      "channel": "All Time Movies",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "9XM",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Bansal News",
@@ -33,6 +33,10 @@
     {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+    },
+    {
+      "channel": "Star Sports Select 2 HD",
+      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
     },
     {
       "channel": "K News India",
@@ -55,16 +59,16 @@
       "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
     },
     {
-      "channel": "Hare Krsna TV",
-      "url": "https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8"
-    },
-    {
-      "channel": "NH BollyFlix",
-      "url": "https://jmp2.uk/stvp-IN46000140Q"
+      "channel": "NH BollyRaga",
+      "url": "https://jmp2.uk/stvp-IN460001373"
     },
     {
       "channel": "Qello Concerts by Stingray",
       "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+      "channel": "Sony Pix HD",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -75,56 +79,32 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Animal Planet Latin America HD (720p)",
-      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America",
-      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
+      "channel": "Sony Yay!",
+      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
-      "channel": "Sony Yay!",
-      "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
+      "channel": "Disney Jr. Latin America North HD",
+      "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
-      "channel": "MTV Classic BR",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
-    },
-    {
-      "channel": "Investigation Discovery (United States) (1080p)",
-      "url": "http://212.5.144.156:8080/id/index.m3u8"
-    },
-    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
-      "channel": "National Geographic (Croatia)",
-      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
-    },
-    {
-      "channel": "National Geographic Latin America",
-      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
-    },
-    {
-      "channel": "National Geographic (United States)",
-      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
+      "channel": "YET Max",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
-    },
-    {
-      "channel": "YET Max",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
     },
     {
       "channel": "National Geographic (Russia)",
@@ -135,8 +115,8 @@
       "url": "http://57.128.231.171:8080/317/index.m3u8"
     },
     {
-      "channel": "Disney Jr. Latin America North HD",
-      "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
+      "channel": "Cartoon Network (United States)",
+      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
     },
     {
       "channel": "Cartoon Network CEE Poland",
@@ -164,7 +144,7 @@
     },
     {
       "channel": "NewsX",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8"
+      "url": "https://cdn.pishow.tv/ott/live/1765/master.m3u8"
     }
   ]
 }
