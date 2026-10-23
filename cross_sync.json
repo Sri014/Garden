@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 41,
+  "repaired": 44,
   "channels": [
     {
       "channel": "Cricket Gold",
@@ -27,20 +27,16 @@
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
+      "channel": "Andy Haryana",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+    },
+    {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Fox Sports 2 (United States)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
-      "channel": "Star Sports Select 2 HD",
-      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
     },
     {
       "channel": "K News India",
@@ -67,20 +63,12 @@
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
-      "channel": "Sana Plus",
-      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
-    },
-    {
-      "channel": "Sony Max (576p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
+      "channel": "Kaumudy TV",
+      "url": "https://cdn.pishow.tv/ott/live/1237/master.m3u8"
     },
     {
       "channel": "National Geographic Wild (India) HD",
       "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
-    },
-    {
-      "channel": "Sony Pix HD",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
     {
       "channel": "Dhamaal (576p)",
@@ -111,12 +99,24 @@
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
+      "channel": "Cartoon Network CEE Czech Republic",
+      "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8"
+    },
+    {
       "channel": "Star Movies (India) HD",
       "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8"
     },
     {
+      "channel": "Cartoon Network Latin America South Atlantic",
+      "url": "http://158.172.217.18:8000/play/a03a/index.m3u8"
+    },
+    {
       "channel": "Super Hungama",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
+    },
+    {
+      "channel": "Investigation Discovery (Hungary)",
+      "url": "http://88.212.15.17/live/id_hun/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
@@ -127,12 +127,32 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
+      "channel": "National Geographic (Czech Republic)",
+      "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8"
+    },
+    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
+      "channel": "National Geographic (Hungary)",
+      "url": "http://88.212.15.17/live/ngc_hun/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Czech Republic)",
+      "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Hungary)",
+      "url": "http://88.212.15.17/live/ngw_hun/index.m3u8"
+    },
+    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
+    },
+    {
+      "channel": "Vaanavil TV",
+      "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
     },
     {
       "channel": "YET Max",
@@ -143,16 +163,8 @@
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
-      "channel": "Cartoon Network (United States)",
-      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
-    },
-    {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
-    },
-    {
-      "channel": "MTV Biggest Pop",
-      "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8"
     },
     {
       "channel": "National Geographic (Bulgaria)",
