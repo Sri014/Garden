@@ -1,22 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 52,
+  "repaired": 49,
   "channels": [
     {
       "channel": "Cricket Gold",
       "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
     },
     {
-      "channel": "Fox Sports",
-      "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+      "channel": "Unite8 Sports 2",
+      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
       "channel": "Sony Sports Ten 5",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
-    },
-    {
-      "channel": "Unite8 Sports 2",
-      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
       "channel": "T Sports",
@@ -31,6 +27,10 @@
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+    },
+    {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
@@ -43,16 +43,24 @@
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
+      "channel": "Fox Sports 2 (United States)",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+    },
+    {
+      "channel": "Star Sports Select 2 HD",
+      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+    },
+    {
       "channel": "God Stands TV Hindi",
       "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
-      "channel": "K News India",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+      "channel": "Good News Today",
+      "url": "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8"
     },
     {
-      "channel": "National Geographic (India) (576p)",
-      "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
+      "channel": "K News India",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
       "channel": "Disney Channel (India) HD",
@@ -63,36 +71,40 @@
       "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
     },
     {
-      "channel": "Hungama TV",
-      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
+      "channel": "National Geographic (India) (576p)",
+      "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
     },
     {
       "channel": "APN",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
-      "channel": "Sony Max (576p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
+      "channel": "Hungama TV",
+      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (India) HD",
       "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
     },
     {
-      "channel": "Star Sports 3",
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
-    },
-    {
       "channel": "Dhamaal (576p)",
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
-      "channel": "Times Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+      "channel": "Sony Max (576p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
+    },
+    {
+      "channel": "Star Sports 3",
+      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
     {
       "channel": "Nickelodeon (India)",
       "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+    },
+    {
+      "channel": "Times Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
       "channel": "Sonic",
@@ -103,44 +115,28 @@
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
     },
     {
-      "channel": "Animal Planet Latin America HD (720p)",
-      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
-    },
-    {
       "channel": "Sony Yay!",
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
-    },
-    {
-      "channel": "Cartoon Network CEE Czech Republic",
-      "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8"
-    },
-    {
-      "channel": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America",
-      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
     },
     {
       "channel": "Star Movies (India) HD",
       "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8"
     },
     {
+      "channel": "Cartoon Network CEE Czech Republic",
+      "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8"
+    },
+    {
       "channel": "Super Hungama",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
+      "channel": "Disney Jr. Latin America North HD",
+      "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
+    },
+    {
       "channel": "Investigation Discovery (Hungary)",
       "url": "http://88.212.15.17/live/id_hun/index.m3u8"
-    },
-    {
-      "channel": "MTV Classic BR",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
-    },
-    {
-      "channel": "Investigation Discovery (United States) (1080p)",
-      "url": "http://212.5.144.156:8080/id/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
@@ -159,24 +155,12 @@
       "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8"
     },
     {
-      "channel": "National Geographic Latin America",
-      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
-    },
-    {
-      "channel": "National Geographic (United States)",
-      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
+      "channel": "National Geographic (Hungary)",
+      "url": "http://88.212.15.17/live/ngc_hun/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Czech Republic)",
       "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Croatia)",
-      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
-    },
-    {
-      "channel": "National Geographic (Hungary)",
-      "url": "http://88.212.15.17/live/ngc_hun/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Hungary)",
@@ -187,12 +171,16 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
+      "channel": "YET Max",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+    },
+    {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
-      "channel": "YET Max",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+      "channel": "Cartoon Network (United States)",
+      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America North Atlantic",
