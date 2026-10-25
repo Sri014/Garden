@@ -1,26 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 45,
+  "repaired": 41,
   "channels": [
     {
-      "channel": "Cricket Gold",
-      "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8"
+      "channel": "Sony Sports Ten 5",
+      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
     },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "Sony Sports Ten 5",
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
-    },
-    {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "9XM",
@@ -33,10 +25,6 @@
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "Fox Sports",
@@ -69,10 +57,6 @@
     {
       "channel": "Hungama TV",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
-    },
-    {
-      "channel": "Bhakti Sagar",
-      "url": "https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8"
     },
     {
       "channel": "Pocket Films",
@@ -135,20 +119,20 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
-      "channel": "National Geographic (Czech Republic)",
-      "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Hungary)",
-      "url": "http://88.212.15.17/live/ngc_hun/index.m3u8"
-    },
-    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
+      "channel": "National Geographic (Czech Republic)",
+      "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8"
+    },
+    {
       "channel": "National Geographic Wild (Czech Republic)",
       "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8"
+    },
+    {
+      "channel": "National Geographic (Hungary)",
+      "url": "http://88.212.15.17/live/ngc_hun/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
