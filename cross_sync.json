@@ -1,18 +1,22 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 41,
+  "repaired": 47,
   "channels": [
-    {
-      "channel": "Sony Sports Ten 5",
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
-    },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
+      "channel": "Sony Sports Ten 5",
+      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
+    },
+    {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    },
+    {
+      "channel": "All Time Movies",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "9XM",
@@ -27,8 +31,16 @@
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "Fox Sports",
-      "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+    },
+    {
+      "channel": "Fox Sports 2 (United States)",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+    },
+    {
+      "channel": "Star Sports Select 2 HD",
+      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
     },
     {
       "channel": "God Stands TV Hindi",
@@ -63,12 +75,16 @@
       "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
-      "channel": "Dhamaal (576p)",
-      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+      "channel": "Sony Max HD",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+    },
+    {
+      "channel": "Dhamaal (576p)",
+      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
       "channel": "Times Now (720p)",
@@ -103,10 +119,6 @@
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
-      "channel": "Disney Jr. Latin America North HD",
-      "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
-    },
-    {
       "channel": "Investigation Discovery (Hungary)",
       "url": "http://88.212.15.17/live/id_hun/index.m3u8"
     },
@@ -119,28 +131,36 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
-      "channel": "National Geographic (Netherlands)",
-      "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
+      "channel": "MTV Classic BR",
+      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "channel": "National Geographic (Czech Republic)",
       "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8"
     },
     {
-      "channel": "National Geographic Wild (Czech Republic)",
-      "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8"
+      "channel": "National Geographic (Netherlands)",
+      "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
       "channel": "National Geographic (Hungary)",
       "url": "http://88.212.15.17/live/ngc_hun/index.m3u8"
     },
     {
-      "channel": "National Geographic Wild (Russia) HD",
-      "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
+      "channel": "TV45",
+      "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Czech Republic)",
+      "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8"
     },
     {
       "channel": "National Geographic Wild (Hungary)",
       "url": "http://88.212.15.17/live/ngw_hun/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Russia) HD",
+      "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
       "channel": "YET Max",
@@ -149,6 +169,10 @@
     {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network (United States)",
+      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America North Atlantic",
