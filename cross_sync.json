@@ -15,24 +15,20 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
+      "channel": "Star Sports Select 2 HD",
+      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls"
+    },
+    {
       "channel": "Fox Sports 2 (United States)",
       "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
-    },
-    {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Anand Wari TV",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -47,16 +43,8 @@
       "url": "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8"
     },
     {
-      "channel": "God Stands TV Hindi",
-      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
-    },
-    {
       "channel": "K News India",
       "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
-    },
-    {
-      "channel": "Kanshi TV (720p)",
-      "url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
     },
     {
       "channel": "Mangalmay TV",
@@ -71,6 +59,10 @@
       "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
     },
     {
+      "channel": "God Stands TV Hindi",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+    },
+    {
       "channel": "APN",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
@@ -79,16 +71,28 @@
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
     {
+      "channel": "BVG",
+      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
+    },
+    {
       "channel": "Pocket Films",
       "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
-      "channel": "Star Sports 3",
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+      "channel": "Sadhna News Madhya Pradesh/Chhattisgarh",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8"
     },
     {
       "channel": "Dhamaal (576p)",
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+    },
+    {
+      "channel": "Sony Pix HD",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
+    },
+    {
+      "channel": "Star Sports 3",
+      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
     {
       "channel": "Times Now (720p)",
@@ -123,20 +127,16 @@
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America South",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
+      "channel": "MTV Classic BR",
+      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
-      "channel": "Disney Jr. Latin America South HD",
-      "url": "http://45.185.163.75:8000/play/a016/index.m3u8"
+      "channel": "Disney Channel Latin America South",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands)",
