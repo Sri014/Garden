@@ -1,14 +1,10 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 45,
+  "repaired": 40,
   "channels": [
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
-    },
-    {
-      "channel": "9XM",
-      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "T Sports",
@@ -25,6 +21,10 @@
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
       "channel": "Aryan TV National",
@@ -59,12 +59,12 @@
       "url": "http://103.175.73.12:8080/live/51/51_0.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
-    },
-    {
       "channel": "Hungama TV",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Pocket Films",
@@ -81,10 +81,6 @@
     {
       "channel": "Dhamaal (576p)",
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
-    },
-    {
-      "channel": "Superhitz",
-      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
     },
     {
       "channel": "Times Now (720p)",
@@ -107,10 +103,6 @@
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
-      "channel": "Cartoon Network (United States)",
-      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
-    },
-    {
       "channel": "Star Movies (India) HD",
       "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8"
     },
@@ -119,20 +111,16 @@
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
-    },
-    {
-      "channel": "Investigation Discovery (United States) (1080p)",
-      "url": "http://212.5.144.156:8080/id/index.m3u8"
+      "channel": "Cartoon Network Latin America",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
-      "channel": "Cartoon Network Latin America",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+      "channel": "Cartoon Network (United States)",
+      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
     },
     {
       "channel": "The Q India",
@@ -141,14 +129,6 @@
     {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
-    },
-    {
-      "channel": "National Geographic (Croatia)",
-      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
-    },
-    {
-      "channel": "National Geographic (United States)",
-      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
