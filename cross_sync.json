@@ -1,22 +1,18 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 44,
+  "repaired": 45,
   "channels": [
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-    },
-    {
       "channel": "9XM",
       "url": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8"
     },
     {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Fox Sports 2 (United States)",
@@ -27,12 +23,16 @@
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "Aastha Bhajan",
+      "url": "http://103.175.73.12:8080/live/339/master.m3u8"
     },
     {
       "channel": "God Stands TV Hindi",
@@ -55,6 +55,14 @@
       "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
     },
     {
+      "channel": "Goldmines Movies",
+      "url": "http://103.175.73.12:8080/live/51/51_0.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+    },
+    {
       "channel": "Hungama TV",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
@@ -63,8 +71,8 @@
       "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "Sony Pix HD",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -73,6 +81,10 @@
     {
       "channel": "Dhamaal (576p)",
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+    },
+    {
+      "channel": "Superhitz",
+      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls"
     },
     {
       "channel": "Times Now (720p)",
@@ -95,32 +107,20 @@
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
-      "channel": "Animal Planet Latin America HD (720p)",
-      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
+      "channel": "Cartoon Network (United States)",
+      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
     },
     {
       "channel": "Star Movies (India) HD",
       "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8"
     },
     {
-      "channel": "MTA2 Europe",
-      "url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8"
-    },
-    {
-      "channel": "MTA7 Asia",
-      "url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America",
-      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
-    },
-    {
-      "channel": "Cartoon Network (United States)",
-      "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
-    },
-    {
       "channel": "Super Hungama",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
+    },
+    {
+      "channel": "Investigation Discovery (Russia)",
+      "url": "http://stream.mcquack.net/205/index.m3u8"
     },
     {
       "channel": "Investigation Discovery (United States) (1080p)",
@@ -135,12 +135,16 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
+      "channel": "The Q India",
+      "url": "http://103.175.73.12:8080/live/25/25_0.m3u8"
+    },
+    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
-      "channel": "National Geographic Latin America",
-      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
     },
     {
       "channel": "National Geographic (United States)",
