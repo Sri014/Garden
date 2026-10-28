@@ -1,7 +1,11 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 41,
+  "repaired": 39,
   "channels": [
+    {
+      "channel": "Sony Sports Ten 1",
+      "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls"
+    },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
@@ -15,28 +19,20 @@
       "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
     },
     {
-      "channel": "All Time Movies",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "Bansal News",
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "9XM",
       "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "Aastha Bhajan",
-      "url": "http://103.175.73.12:8080/live/339/master.m3u8"
     },
     {
       "channel": "Good News Today",
@@ -47,14 +43,6 @@
       "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
-      "channel": "K News India",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
-    },
-    {
-      "channel": "MTV (India) HD",
-      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
-    },
-    {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
     },
@@ -63,20 +51,16 @@
       "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8"
     },
     {
-      "channel": "Goldmines Movies",
-      "url": "http://103.175.73.12:8080/live/51/51_0.m3u8"
-    },
-    {
-      "channel": "HNN 24x7",
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8"
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Hungama TV",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "K News India",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
     },
     {
       "channel": "Pocket Films",
@@ -85,10 +69,6 @@
     {
       "channel": "Dhamaal (576p)",
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
-    },
-    {
-      "channel": "Sony Pix HD",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -103,6 +83,10 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
+      "channel": "Live Times",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3LIVETIMES/index.m3u8"
+    },
+    {
       "channel": "Sonic",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
@@ -115,12 +99,16 @@
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
-      "channel": "Super Hungama",
-      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
+      "channel": "Animal Planet (Russia)",
+      "url": "http://stream.mcquack.net/114/index.m3u8"
     },
     {
-      "channel": "The Q India",
-      "url": "http://103.175.73.12:8080/live/25/25_0.m3u8"
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    },
+    {
+      "channel": "Super Hungama",
+      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
@@ -157,6 +145,10 @@
     {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
+    },
+    {
+      "channel": "FTV (Uzbekistan)",
+      "url": "https://stream8.cinerama.uz/1018/playlist.m3u8"
     },
     {
       "channel": "Investigation Discovery Latin America South",
