@@ -1,82 +1,78 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 45,
+  "repaired": 43,
   "channels": [
-    {
-      "channel": "Sony Sports Ten 5",
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
-    },
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
+    },
+    {
+      "channel": "Sony Sports Ten 5",
+      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Fox Sports 2 (United States)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
-      "channel": "22Scope News",
-      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
-    },
-    {
-      "channel": "Disney Junior (India)",
-      "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls"
+      "channel": "Fox Sports 2 (United States)",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
     },
     {
       "channel": "DD Manipur",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8"
     },
     {
-      "channel": "Good News Today",
-      "url": "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8"
+      "channel": "Disney Junior (India)",
+      "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls"
     },
     {
       "channel": "God Stands TV Hindi",
       "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
-      "channel": "Disney Channel (India) HD",
-      "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
+      "channel": "Good News Today",
+      "url": "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "Disney Channel (India) HD",
+      "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
     },
     {
       "channel": "Hungama TV",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
     {
+      "channel": "BVG",
+      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
+    },
+    {
       "channel": "Pogo",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
     },
     {
-      "channel": "Pocket Films",
-      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
+      "channel": "Sana Plus",
+      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
     },
     {
-      "channel": "Sony Pix HD",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
+      "channel": "Pocket Films",
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
       "channel": "Dhamaal (576p)",
@@ -87,6 +83,10 @@
       "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls"
     },
     {
+      "channel": "Sony Pix HD",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
+    },
+    {
       "channel": "Star Sports 2",
       "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
     },
@@ -95,16 +95,20 @@
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
     {
-      "channel": "Times Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
-    },
-    {
       "channel": "Nickelodeon (India)",
       "url": "http://103.185.24.134:3001/NICK/index.m3u8"
     },
     {
+      "channel": "Times Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+    },
+    {
       "channel": "Travelxp HD",
       "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
+    },
+    {
+      "channel": "News Hour",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8"
     },
     {
       "channel": "Sonic",
@@ -119,52 +123,40 @@
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
+      "channel": "Zee TV",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
+    },
+    {
+      "channel": "ZB Music",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
+    },
+    {
       "channel": "Super Hungama",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
-      "channel": "Cartoon Network Latin America",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+      "channel": "Disney Jr. Latin America",
+      "url": "http://190.14.10.19:16000/play/a02d/index.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
+      "channel": "Cartoon Network Latin America",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+    },
+    {
+      "channel": "TV45",
+      "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8"
+    },
+    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
-      "channel": "National Geographic (Bulgaria)",
-      "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8"
-    },
-    {
-      "channel": "MTV Biggest Pop CA",
-      "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
-    },
-    {
-      "channel": "MTV Classic CA",
-      "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
-    },
-    {
-      "channel": "MTV Classic BR",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
-    },
-    {
-      "channel": "MTV Spankin' New CA",
-      "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
-    },
-    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
-    },
-    {
-      "channel": "National Geographic Wild (Bulgaria)",
-      "url": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8"
-    },
-    {
-      "channel": "Yo! MTV CA",
-      "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
     },
     {
       "channel": "National Geographic (Russia)",
