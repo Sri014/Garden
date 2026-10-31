@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 41,
+  "repaired": 43,
   "channels": [
     {
       "channel": "Sony Sports Ten 5",
@@ -9,10 +9,6 @@
     {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
-    },
-    {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
       "channel": "T Sports",
@@ -33,14 +29,6 @@
     {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Fox Sports 2 (United States)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
-      "channel": "DD Kashir",
-      "url": "https://fta.ektv.in/live/248/master.m3u8"
     },
     {
       "channel": "DD Manipur",
@@ -67,16 +55,12 @@
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
     },
     {
-      "channel": "Hungama TV",
-      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
-    },
-    {
       "channel": "Pocket Films",
       "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
-      "channel": "Star Sports 3",
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+      "channel": "Hungama TV",
+      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
     },
     {
       "channel": "Sony Pix HD",
@@ -91,6 +75,10 @@
       "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
     },
     {
+      "channel": "Star Sports 3",
+      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+    },
+    {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
@@ -99,12 +87,20 @@
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
+      "channel": "Nickelodeon (India)",
+      "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+    },
+    {
       "channel": "Travelxp HD",
       "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
     },
     {
-      "channel": "Nickelodeon (India)",
-      "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+      "channel": "Animal Planet Latin America HD (720p)",
+      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
+    },
+    {
+      "channel": "Zee TV",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
     },
     {
       "channel": "Sonic",
@@ -115,20 +111,20 @@
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
     },
     {
-      "channel": "Animal Planet (Russia)",
-      "url": "http://stream.mcquack.net/114/index.m3u8"
+      "channel": "Cartoon Network (United States) (720p)",
+      "url": "http://212.5.144.156:8080/cartoon/index.m3u8"
     },
     {
       "channel": "Sony Yay!",
       "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
     },
     {
-      "channel": "Super Hungama",
-      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
+      "channel": "Disney Channel Latin America",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
     },
     {
-      "channel": "Disney Channel Latin America Panregional HD",
-      "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
+      "channel": "Super Hungama",
+      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
@@ -139,12 +135,24 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
+      "channel": "Investigation Discovery (United States) (1080p)",
+      "url": "http://212.5.144.156:8080/id/index.m3u8"
+    },
+    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
+      "channel": "National Geographic Latin America",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
+    },
+    {
       "channel": "National Geographic (Croatia)",
       "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (United States)",
+      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Russia) HD",
