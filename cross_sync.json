@@ -1,10 +1,14 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 40,
+  "repaired": 39,
   "channels": [
     {
       "channel": "Sony Sports Ten 5",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
+    },
+    {
+      "channel": "T Sports",
+      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "Unite8 Sports 2",
@@ -13,10 +17,6 @@
     {
       "channel": "Aastha Prime 1",
       "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
-    },
-    {
-      "channel": "T Sports",
-      "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
       "channel": "9XM",
@@ -35,12 +35,8 @@
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "Fox Sports 2 (United States)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+      "channel": "Deewana HD",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
     },
     {
       "channel": "DD Manipur",
@@ -69,6 +65,10 @@
     {
       "channel": "Pocket Films",
       "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
+    },
+    {
+      "channel": "KBP Times",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8"
     },
     {
       "channel": "Star Sports 3",
@@ -103,12 +103,12 @@
       "url": "http://103.185.24.134:3001/NICK/index.m3u8"
     },
     {
-      "channel": "Animal Planet (United Kingdom)",
-      "url": "http://37.49.224.5/stream/10/index.m3u8"
-    },
-    {
       "channel": "Zee TV",
       "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
+    },
+    {
+      "channel": "Animal Planet (United Kingdom)",
+      "url": "http://37.49.224.5/stream/10/index.m3u8"
     },
     {
       "channel": "Sonic",
@@ -125,10 +125,6 @@
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
-    },
-    {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
