@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 54,
+  "repaired": 53,
   "channels": [
     {
       "channel": "Sony Sports Ten 5",
@@ -15,12 +15,16 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
-    },
-    {
       "channel": "Aadinath TV",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8"
+    },
+    {
+      "channel": "Aagaaz Times",
+      "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8"
+    },
+    {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Anand Wari TV",
@@ -35,28 +39,32 @@
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+    },
+    {
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "Bharat Samachar",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8"
     },
     {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
-    },
-    {
       "channel": "Awakening TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8"
     },
     {
-      "channel": "Star Sports 2 Telugu HD",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      "channel": "Fox Sports 2 (United States)",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
     },
     {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+      "channel": "Star Sports Select 2 HD",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8"
     },
     {
       "channel": "DD Manipur",
@@ -79,16 +87,8 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
     },
     {
-      "channel": "Mangalmay TV",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
-    },
-    {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
-    },
-    {
-      "channel": "God Stands TV Hindi",
-      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
       "channel": "News Daily 24",
@@ -111,10 +111,6 @@
       "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
     },
     {
-      "channel": "Dhamaal (576p)",
-      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
-    },
-    {
       "channel": "Sony Pix HD",
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
     },
@@ -125,6 +121,10 @@
     {
       "channel": "Star Sports 2",
       "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
+    },
+    {
+      "channel": "Dhamaal (576p)",
+      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
       "channel": "Star Sports 3",
@@ -145,6 +145,10 @@
     {
       "channel": "Zee TV",
       "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
+    },
+    {
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Animal Planet (United Kingdom)",
@@ -183,12 +187,12 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "National Geographic (Russia)",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-    },
-    {
       "channel": "NewsX World",
       "url": "https://cdn.pishow.tv/ott/live/1049/master.m3u8"
+    },
+    {
+      "channel": "National Geographic (Russia)",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
       "channel": "Epic Bhojpuri",
@@ -205,14 +209,6 @@
     {
       "channel": "Investigation Discovery Latin America South",
       "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
-    },
-    {
-      "channel": "Cartoon Network Latin America South Pacific",
-      "url": "http://45.167.1.138:8000/play/a00w"
-    },
-    {
-      "channel": "Investigation Discovery (United States) (1080p)",
-      "url": "http://212.5.144.156:8080/id/index.m3u8"
     },
     {
       "channel": "NewsX",
