@@ -1,22 +1,22 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 52,
+  "repaired": 54,
   "channels": [
     {
       "channel": "Sony Sports Ten 5",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
     },
     {
-      "channel": "Unite8 Sports 2",
-      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
-    },
-    {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+      "channel": "Unite8 Sports 2",
+      "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
     },
     {
       "channel": "Aadinath TV",
@@ -35,24 +35,28 @@
       "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
-    },
-    {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
     },
     {
       "channel": "Bharat Samachar",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "Awakening TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8"
+    },
+    {
+      "channel": "Star Sports 2 Telugu HD",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+    },
+    {
+      "channel": "Aryan TV National",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
     {
       "channel": "DD Manipur",
@@ -67,10 +71,6 @@
       "url": "https://cdn.pishow.tv/ott/live/267/master.m3u8"
     },
     {
-      "channel": "God Stands TV Hindi",
-      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
-    },
-    {
       "channel": "Good News Today",
       "url": "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8"
     },
@@ -79,12 +79,16 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
     },
     {
-      "channel": "Kalika TV",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+      "channel": "Mangalmay TV",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     },
     {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
+    },
+    {
+      "channel": "God Stands TV Hindi",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
       "channel": "News Daily 24",
@@ -107,12 +111,16 @@
       "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
     },
     {
-      "channel": "Star Movies (India) HD",
-      "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls"
+      "channel": "Dhamaal (576p)",
+      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
       "channel": "Sony Pix HD",
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
+    },
+    {
+      "channel": "Star Movies (India) HD",
+      "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 2",
@@ -125,10 +133,6 @@
     {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
-    },
-    {
-      "channel": "Dhamaal (576p)",
-      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
       "channel": "Travelxp HD",
@@ -147,10 +151,6 @@
       "url": "http://37.49.224.5/stream/10/index.m3u8"
     },
     {
-      "channel": "Discovery History",
-      "url": "http://37.49.224.5/stream/12/index.m3u8"
-    },
-    {
       "channel": "Sonic",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
@@ -159,12 +159,12 @@
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
     },
     {
-      "channel": "Cartoon Network Latin America",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+      "channel": "Discovery History",
+      "url": "http://37.49.224.5/stream/12/index.m3u8"
     },
     {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
+      "channel": "Cartoon Network Latin America",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
@@ -195,16 +195,24 @@
       "url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8"
     },
     {
-      "channel": "Sangeet Bhojpuri",
-      "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
-    },
-    {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
+      "channel": "Sangeet Bhojpuri",
+      "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
+    },
+    {
       "channel": "Investigation Discovery Latin America South",
       "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Latin America South Pacific",
+      "url": "http://45.167.1.138:8000/play/a00w"
+    },
+    {
+      "channel": "Investigation Discovery (United States) (1080p)",
+      "url": "http://212.5.144.156:8080/id/index.m3u8"
     },
     {
       "channel": "NewsX",
