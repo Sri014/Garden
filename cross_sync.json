@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 53,
+  "repaired": 57,
   "channels": [
     {
       "channel": "Sony Sports Ten 5",
@@ -15,24 +15,20 @@
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
     },
     {
-      "channel": "Aadinath TV",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8"
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
-      "channel": "APN",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
-    },
-    {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
-    },
-    {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "&TV",
+      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
     },
     {
       "channel": "9XM",
       "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+    },
+    {
+      "channel": "Aadinath TV",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8"
     },
     {
       "channel": "Anand Wari TV",
@@ -43,16 +39,40 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
     },
     {
+      "channel": "APN",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8"
+    },
+    {
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+    },
+    {
+      "channel": "Bharat Samachar",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8"
+    },
+    {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+    },
+    {
+      "channel": "B4U Kadak",
+      "url": "https://cdn.pishow.tv/ott/live/227/master.m3u8"
     },
     {
       "channel": "Awakening TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8"
     },
     {
-      "channel": "Bharat Samachar",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8"
+      "channel": "Fox Sports 2",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+    },
+    {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "DD Manipur",
@@ -91,10 +111,6 @@
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
     },
     {
-      "channel": "Pocket Films",
-      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
-    },
-    {
       "channel": "Sarv Dharm Sangam",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8"
     },
@@ -103,8 +119,8 @@
       "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
     },
     {
-      "channel": "Star Sports 3",
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
+      "channel": "Pocket Films",
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
       "channel": "Sony Pix HD",
@@ -115,12 +131,16 @@
       "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
     },
     {
-      "channel": "Dhamaal (576p)",
-      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+      "channel": "Star Sports 3",
+      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls"
     },
     {
       "channel": "Times Now (720p)",
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
+    },
+    {
+      "channel": "Dhamaal (576p)",
+      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
       "channel": "Travelxp HD",
@@ -131,18 +151,6 @@
       "url": "http://103.185.24.134:3001/NICK/index.m3u8"
     },
     {
-      "channel": "Zee TV",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
-    },
-    {
-      "channel": "Animal Planet (United Kingdom)",
-      "url": "http://37.49.224.5/stream/10/index.m3u8"
-    },
-    {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
-    },
-    {
       "channel": "Sonic",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
@@ -151,16 +159,24 @@
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
     },
     {
+      "channel": "Animal Planet (United Kingdom)",
+      "url": "http://37.49.224.5/stream/10/index.m3u8"
+    },
+    {
       "channel": "Discovery History",
       "url": "http://37.49.224.5/stream/12/index.m3u8"
     },
     {
-      "channel": "Disney Channel Latin America South",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
+      "channel": "Disney Jr. Latin America",
+      "url": "http://190.14.10.19:16000/play/a02d/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+    },
+    {
+      "channel": "Disney Channel Latin America South",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands)",
@@ -183,6 +199,10 @@
       "url": "http://23.239.31.26:8989/animalplanet/index.m3u8"
     },
     {
+      "channel": "NewsX World",
+      "url": "https://cdn.pishow.tv/ott/live/1049/master.m3u8"
+    },
+    {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
@@ -191,16 +211,12 @@
       "url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8"
     },
     {
-      "channel": "Investigation Discovery Latin America South",
-      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
-    },
-    {
       "channel": "Sangeet Bhojpuri",
       "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
     },
     {
-      "channel": "NewsX World",
-      "url": "https://cdn.pishow.tv/ott/live/1049/master.m3u8"
+      "channel": "Investigation Discovery Latin America South",
+      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
     },
     {
       "channel": "National Geographic (United States) HD East",
