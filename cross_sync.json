@@ -1,34 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 60,
+  "repaired": 52,
   "channels": [
     {
       "channel": "Sony Sports Ten 5",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls"
     },
     {
-      "channel": "9X Tashan",
-      "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
-    },
-    {
       "channel": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8"
-    },
-    {
-      "channel": "9X Jhakaas",
-      "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
-    },
-    {
       "channel": "Aadinath TV",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
     },
     {
       "channel": "Andy Haryana",
@@ -37,6 +29,14 @@
     {
       "channel": "Anand Wari TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
+    },
+    {
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+    },
+    {
+      "channel": "Bharat Samachar",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8"
     },
     {
       "channel": "APN",
@@ -49,14 +49,6 @@
     {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Bharat Samachar",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8"
-    },
-    {
-      "channel": "Fox Sports 2 (United States)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
     },
     {
       "channel": "Awakening TV",
@@ -75,8 +67,8 @@
       "url": "https://cdn.pishow.tv/ott/live/267/master.m3u8"
     },
     {
-      "channel": "History TV18 HD (1080p)",
-      "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
+      "channel": "Bhakti Dhara",
+      "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8"
     },
     {
       "channel": "Good News Today",
@@ -87,16 +79,12 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
     },
     {
-      "channel": "Mr Bean Animated",
-      "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+      "channel": "T Sports 7",
+      "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
     },
     {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
-    },
-    {
-      "channel": "NDTV Good Times",
-      "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8"
     },
     {
       "channel": "News Daily 24",
@@ -119,20 +107,12 @@
       "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
     },
     {
-      "channel": "Dhamaal (576p)",
-      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+      "channel": "Star Sports 2",
+      "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
     },
     {
       "channel": "Sony Pix HD",
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls"
-    },
-    {
-      "channel": "Star Movies (India) HD",
-      "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls"
-    },
-    {
-      "channel": "Star Sports 2",
-      "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls"
     },
     {
       "channel": "Star Sports 3",
@@ -143,20 +123,28 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "Nickelodeon (India)",
-      "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+      "channel": "Dhamaal (576p)",
+      "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
       "channel": "Travelxp HD",
       "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls"
     },
     {
+      "channel": "Nickelodeon (India)",
+      "url": "http://103.185.24.134:3001/NICK/index.m3u8"
+    },
+    {
       "channel": "Zee TV",
       "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
     },
     {
-      "channel": "TV7 Bharat",
-      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8"
+      "channel": "Animal Planet (United Kingdom)",
+      "url": "http://37.49.224.5/stream/10/index.m3u8"
+    },
+    {
+      "channel": "ZB Cartoon",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Sonic",
@@ -167,28 +155,20 @@
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8"
     },
     {
-      "channel": "Animal Planet (United Kingdom)",
-      "url": "http://37.49.224.5/stream/10/index.m3u8"
-    },
-    {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
-    },
-    {
       "channel": "Discovery History",
       "url": "http://37.49.224.5/stream/12/index.m3u8"
     },
     {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America South",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
+      "channel": "Disney Channel Latin America Panregional HD",
+      "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
+    },
+    {
+      "channel": "Disney Channel Latin America South",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
       "channel": "National Geographic (Croatia)",
@@ -203,14 +183,6 @@
       "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
     },
     {
-      "channel": "Animal Planet (United States)",
-      "url": "http://23.239.31.26:8989/animalplanet/index.m3u8"
-    },
-    {
-      "channel": "Cartoon Network Latin America North Atlantic",
-      "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
-    },
-    {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
@@ -219,24 +191,20 @@
       "url": "https://cdn.pishow.tv/ott/live/1049/master.m3u8"
     },
     {
-      "channel": "Investigation Discovery Latin America South",
-      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
-    },
-    {
       "channel": "Epic Bhojpuri",
       "url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Latin America North Atlantic",
+      "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
       "channel": "Sangeet Bhojpuri",
       "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
     },
     {
-      "channel": "National Geographic (United States) HD East",
-      "url": "http://198.58.104.90:8989/natgeo/index.m3u8"
-    },
-    {
-      "channel": "National Geographic Wild (United States) HD East",
-      "url": "http://198.58.104.90:8989/natgeowild/index.m3u8"
+      "channel": "Investigation Discovery Latin America South",
+      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
     },
     {
       "channel": "NewsX",
