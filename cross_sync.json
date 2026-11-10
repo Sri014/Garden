@@ -1,54 +1,38 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 55,
+  "repaired": 50,
   "channels": [
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Aastha International",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
-    },
-    {
-      "channel": "Aastha Prime 1",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
-    },
-    {
       "channel": "9XM",
       "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
-    },
-    {
-      "channel": "Aastha UK",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8"
     },
     {
       "channel": "Animal Planet (India)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
     },
     {
-      "channel": "B4U Movies",
-      "url": "http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass"
-    },
-    {
       "channel": "Andy Haryana",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+    },
+    {
+      "channel": "B4U Movies",
+      "url": "http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass"
     },
     {
       "channel": "Anand Wari TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
-    },
-    {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Cartoon Network (India)",
@@ -61,14 +45,6 @@
     {
       "channel": "Fox Sports 2",
       "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-    },
-    {
-      "channel": "DD Himachal Pradesh",
-      "url": "https://fta.ektv.in/live/575/master.m3u8"
     },
     {
       "channel": "Discovery Channel (India)",
@@ -91,32 +67,28 @@
       "url": "https://fta.ektv.in/live/52/52_0.m3u8"
     },
     {
+      "channel": "Good News Today",
+      "url": "http://163.61.226.31:9981/stream/channelid/1288881331?profile=pass"
+    },
+    {
       "channel": "Hungama TV",
       "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8"
     },
     {
-      "channel": "Good News Today",
-      "url": "http://163.61.226.31:9981/stream/channelid/1288881331?profile=pass"
+      "channel": "MTV (India)",
+      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
     },
     {
       "channel": "Disney Channel (India) HD",
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
     },
     {
-      "channel": "MTV (India) HD",
-      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
-    },
-    {
-      "channel": "Epic Music",
-      "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
-    },
-    {
       "channel": "National Geographic (India) HD",
       "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
     },
     {
-      "channel": "Gangaur TV",
-      "url": "https://cdn.pishow.tv/ott/live/1221/master.m3u8"
+      "channel": "Epic Music",
+      "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
     },
     {
       "channel": "Pogo",
@@ -131,16 +103,16 @@
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
     },
     {
+      "channel": "Sony Pal",
+      "url": "http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass"
+    },
+    {
       "channel": "Star Gold HD",
       "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8"
     },
     {
       "channel": "Star Movies (India) HD",
       "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8"
-    },
-    {
-      "channel": "Sony Pal",
-      "url": "http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass"
     },
     {
       "channel": "Times Now (720p)",
@@ -155,20 +127,28 @@
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8"
     },
     {
+      "channel": "Zee TV HD",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
+    },
+    {
+      "channel": "Animal Planet Latin America HD (720p)",
+      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
+    },
+    {
       "channel": "Animal Planet (United Kingdom)",
       "url": "http://37.49.224.5/stream/10/index.m3u8"
     },
     {
-      "channel": "Sonic",
-      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
+      "channel": "Animal Planet (Russia)",
+      "url": "http://stream.mcquack.net/114/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America Brazil",
       "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
     },
     {
-      "channel": "Sony Yay!",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8"
+      "channel": "Sonic",
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
       "channel": "Discovery History",
@@ -207,16 +187,16 @@
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
     },
     {
-      "channel": "Sangeet Bhojpuri",
-      "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8"
-    },
-    {
-      "channel": "National Geographic (United States) HD East",
-      "url": "http://198.58.104.90:8989/natgeo/index.m3u8"
+      "channel": "Sony Yay!",
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (United States) HD East",
       "url": "http://198.58.104.90:8989/natgeowild/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (United States) HD East",
+      "url": "http://198.58.104.90:8989/natgeo/index.m3u8"
     },
     {
       "channel": "NewsX",
