@@ -1,18 +1,26 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 51,
+  "repaired": 55,
   "channels": [
-    {
-      "channel": "Fox Sports 2",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
+      "channel": "Aastha International",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+    },
+    {
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+    },
+    {
       "channel": "9XM",
       "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+    },
+    {
+      "channel": "Aastha UK",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8"
     },
     {
       "channel": "Animal Planet (India)",
@@ -23,44 +31,64 @@
       "url": "http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass"
     },
     {
-      "channel": "Bansal News",
-      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
+      "channel": "Andy Haryana",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
     },
     {
       "channel": "Anand Wari TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
     },
     {
-      "channel": "Andy Haryana",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+      "channel": "Bansal News",
+      "url": "https://cdn.pishow.tv/ott/live/1051/master.m3u8"
     },
     {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "Cartoon Network (India)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
-    },
-    {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network (India)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
     },
     {
       "channel": "Cartoon Network HD+",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8"
     },
     {
+      "channel": "Fox Sports 2",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+    },
+    {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+    },
+    {
+      "channel": "DD Himachal Pradesh",
+      "url": "https://fta.ektv.in/live/575/master.m3u8"
+    },
+    {
       "channel": "Discovery Channel (India)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8"
+    },
+    {
+      "channel": "Discovery Kids",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8"
     },
     {
       "channel": "DD Manipur",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8"
     },
     {
-      "channel": "Discovery Kids",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8"
+      "channel": "Goldmines 2",
+      "url": "https://fta.ektv.in/live/46/46_0.m3u8"
+    },
+    {
+      "channel": "Goldmines Bollywood",
+      "url": "https://fta.ektv.in/live/52/52_0.m3u8"
     },
     {
       "channel": "Hungama TV",
@@ -75,12 +103,12 @@
       "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
     },
     {
-      "channel": "Epic Music",
-      "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
-    },
-    {
       "channel": "MTV (India) HD",
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
+    },
+    {
+      "channel": "Epic Music",
+      "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
     },
     {
       "channel": "National Geographic (India) HD",
@@ -127,16 +155,8 @@
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8"
     },
     {
-      "channel": "Zee TV HD",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
-    },
-    {
       "channel": "Animal Planet (United Kingdom)",
       "url": "http://37.49.224.5/stream/10/index.m3u8"
-    },
-    {
-      "channel": "ZB Cartoon",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "channel": "Sonic",
@@ -147,16 +167,16 @@
       "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
     },
     {
+      "channel": "Sony Yay!",
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8"
+    },
+    {
       "channel": "Discovery History",
       "url": "http://37.49.224.5/stream/12/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
-    },
-    {
-      "channel": "Investigation Discovery Latin America South",
-      "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
     },
     {
       "channel": "Disney Channel Latin America South",
@@ -185,10 +205,6 @@
     {
       "channel": "Cartoon Network Latin America North Atlantic",
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8"
-    },
-    {
-      "channel": "Sony Yay!",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8"
     },
     {
       "channel": "Sangeet Bhojpuri",
