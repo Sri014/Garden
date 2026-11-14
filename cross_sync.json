@@ -3,36 +3,36 @@
   "repaired": 38,
   "channels": [
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Andy Haryana",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
     },
     {
       "channel": "Anand Wari TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
     },
     {
-      "channel": "B4U Movies",
-      "url": "http://163.61.226.31:9981/stream/channelid/1547127176?profile=pass"
+      "channel": "Andy Haryana",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+    },
+    {
+      "channel": "Aradana TV",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
       "channel": "Cartoon Network HD+",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8"
     },
     {
-      "channel": "Aryan TV National",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-    },
-    {
-      "channel": "Aradana TV",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
     },
     {
       "channel": "Fox Sports 2",
@@ -103,16 +103,12 @@
       "url": "http://94.130.48.67:8042/stream/109/index.m3u8"
     },
     {
-      "channel": "Sonic",
-      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
-    },
-    {
-      "channel": "Sony Yay!",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8"
-    },
-    {
       "channel": "Discovery History",
       "url": "http://37.49.224.5/stream/12/index.m3u8"
+    },
+    {
+      "channel": "Sonic",
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
@@ -141,6 +137,10 @@
     {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+    },
+    {
+      "channel": "Sony Yay!",
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8"
     },
     {
       "channel": "National Geographic (United States) HD East",
