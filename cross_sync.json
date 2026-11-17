@@ -1,22 +1,38 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 46,
+  "repaired": 53,
   "channels": [
     {
       "channel": "TNT Sports Premium HD",
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8"
     },
     {
+      "channel": "Aastha International",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+    },
+    {
+      "channel": "Aastha Prime 1",
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8"
+    },
+    {
       "channel": "Aastha UK",
       "url": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8"
+    },
+    {
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+      "channel": "Fox Sports 2",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
+    },
+    {
+      "channel": "22Scope News",
+      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
     },
     {
       "channel": "Anand Wari TV",
@@ -35,6 +51,10 @@
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
+      "channel": "Colors Rishtey Americas",
+      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+    },
+    {
       "channel": "Aryan TV National",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
     },
@@ -51,10 +71,6 @@
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8"
     },
     {
-      "channel": "Fox Sports 2",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
       "channel": "Goldmines 2",
       "url": "https://fta.ektv.in/live/46/46_0.m3u8"
     },
@@ -63,11 +79,7 @@
       "url": "https://fta.ektv.in/live/52/52_0.m3u8"
     },
     {
-      "channel": "Kalika TV",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
-    },
-    {
-      "channel": "MTV (India)",
+      "channel": "MTV (India) HD",
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
     },
     {
@@ -75,12 +87,12 @@
       "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
     },
     {
-      "channel": "Pogo",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
-    },
-    {
       "channel": "News India 24x7",
       "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8"
+    },
+    {
+      "channel": "Pogo",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
     },
     {
       "channel": "Public First",
@@ -93,6 +105,10 @@
     {
       "channel": "Pratham News",
       "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8"
+    },
+    {
+      "channel": "Nation News",
+      "url": "https://server.playontv.in/nationnews/index.m3u8"
     },
     {
       "channel": "Sony Pal",
@@ -123,6 +139,14 @@
       "url": "http://37.49.224.5/stream/10/index.m3u8"
     },
     {
+      "channel": "Cartoon Network (Italy)",
+      "url": "http://185.227.34.104/stream/122/index.m3u8"
+    },
+    {
+      "channel": "Animal Planet Latin America",
+      "url": "http://190.128.214.97:64333/play/a01n/index.m3u8"
+    },
+    {
       "channel": "Cartoon Network (United States) West (1080p)",
       "url": "http://212.5.144.156:8080/cartoon/index.m3u8"
     },
@@ -139,40 +163,44 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
-      "channel": "Sonic",
-      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
+      "channel": "Disney Channel Latin America South",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
       "channel": "Investigation Discovery (United States) (1080p)",
       "url": "http://212.5.144.156:8080/id/index.m3u8"
     },
     {
-      "channel": "Investigation Discovery (Russia)",
-      "url": "http://stream.mcquack.net/205/index.m3u8"
-    },
-    {
-      "channel": "Disney Channel Latin America South",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
-    },
-    {
-      "channel": "National Geographic (Croatia)",
-      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
+      "channel": "Sonic",
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
     {
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
+    },
+    {
       "channel": "National Geographic (United States)",
       "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Poland) (576i)",
+      "url": "http://92.114.85.87:8010/play/a005/index.m3u8"
+    },
+    {
+      "channel": "NDTV",
+      "url": "https://cdn.pishow.tv/ott/live/315/master.m3u8"
     },
     {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
-      "channel": "National Geographic Wild (Poland) (576i)",
-      "url": "http://92.114.85.87:8010/play/a005/index.m3u8"
+      "channel": "Disney Jr. Latin America North HD",
+      "url": "http://181.78.14.26:4000/play/a073/index.m3u8"
     },
     {
       "channel": "National Geographic (United States) HD East",
