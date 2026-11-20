@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 46,
+  "repaired": 54,
   "channels": [
     {
       "channel": "T Sports 7",
@@ -11,16 +11,16 @@
       "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8"
     },
     {
-      "channel": "Aastha International",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+      "channel": "9XM",
+      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
     },
     {
       "channel": "T Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "9XM",
-      "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+      "channel": "7X Music",
+      "url": "https://cdn2.in/7xPunjabihls/live.m3u8"
     },
     {
       "channel": "Anand Wari TV",
@@ -43,32 +43,28 @@
       "url": "https://fta.ektv.in/live/97/97_0.m3u8"
     },
     {
-      "channel": "Bharat AtoZ",
-      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8"
-    },
-    {
       "channel": "Fox Sports 2",
       "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-    },
-    {
-      "channel": "Discovery Channel (India) HD",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8"
     },
     {
       "channel": "DD Manipur",
       "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8"
     },
     {
+      "channel": "Discovery Channel (India) HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8"
+    },
+    {
       "channel": "Dheeran TV",
       "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
     },
     {
-      "channel": "God Stands TV Hindi",
-      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
-    },
-    {
       "channel": "Goldmines 2",
       "url": "https://fta.ektv.in/live/46/46_0.m3u8"
+    },
+    {
+      "channel": "God Stands TV Hindi",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
     },
     {
       "channel": "Epic Music",
@@ -87,16 +83,20 @@
       "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
     },
     {
+      "channel": "Public First",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
+    },
+    {
+      "channel": "Pocket Films",
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
+    },
+    {
       "channel": "Pratham News",
       "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8"
     },
     {
       "channel": "Dhamaal (576p)",
       "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
-    },
-    {
-      "channel": "Pocket Films",
-      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
       "channel": "Sony Pal",
@@ -107,12 +107,12 @@
       "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8"
     },
     {
-      "channel": "SRK TV",
-      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
-    },
-    {
       "channel": "Zee TV HD",
       "url": "http://41.205.93.154/ZEE-TV/index.m3u8"
+    },
+    {
+      "channel": "Animal Planet Latin America HD (720p)",
+      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
     },
     {
       "channel": "Animal Planet (United Kingdom)",
@@ -131,8 +131,16 @@
       "url": "http://190.128.214.97:64333/play/a01n/index.m3u8"
     },
     {
-      "channel": "Sonic",
-      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
+      "channel": "ZB Music",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network (United States) West (1080p)",
+      "url": "http://212.5.144.156:8080/cartoon/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Latin America Brazil (720p)",
+      "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8"
     },
     {
       "channel": "Cartoon Network CEE Germany",
@@ -143,8 +151,16 @@
       "url": "http://103.253.74.210:7070/stream/118/index.m3u8"
     },
     {
+      "channel": "Disney Channel Latin America",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
+    },
+    {
       "channel": "Discovery History",
       "url": "http://37.49.224.5/stream/12/index.m3u8"
+    },
+    {
+      "channel": "Sonic",
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
       "channel": "Cartoon Network Latin America",
@@ -159,6 +175,10 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
+      "channel": "Investigation Discovery (United States) (1080p)",
+      "url": "http://212.5.144.156:8080/id/index.m3u8"
+    },
+    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
     },
@@ -167,12 +187,16 @@
       "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
     },
     {
-      "channel": "National Geographic Wild (Poland) (576i)",
-      "url": "http://92.114.85.87:8010/play/a005/index.m3u8"
+      "channel": "National Geographic Latin America",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
     },
     {
-      "channel": "National Geographic (Russia)",
-      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+      "channel": "National Geographic (United States)",
+      "url": "http://212.5.144.156:8080/natgeo/index.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Poland) (576i)",
+      "url": "http://92.114.85.87:8010/play/a005/index.m3u8"
     },
     {
       "channel": "National Geographic (United States) HD East",
@@ -181,6 +205,14 @@
     {
       "channel": "National Geographic Wild (United States) HD East",
       "url": "http://198.58.104.90:8989/natgeowild/index.m3u8"
+    },
+    {
+      "channel": "National Geographic (Russia)",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+    },
+    {
+      "channel": "Oscar Movies Bhojpuri",
+      "url": "https://cdn.pishow.tv/ott/live/233/master.m3u8"
     },
     {
       "channel": "NewsX",
