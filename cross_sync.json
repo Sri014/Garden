@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 29,
+  "repaired": 31,
   "channels": [
     {
       "channel": "TNT Sports Premium HD",
@@ -19,16 +19,12 @@
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
     },
     {
-      "channel": "Bharat Samachar",
-      "url": "https://fta.ektv.in/live/97/97_0.m3u8"
-    },
-    {
       "channel": "Aradana TV",
       "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
     },
     {
-      "channel": "Colors Rishtey Americas",
-      "url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+      "channel": "Bharat Samachar",
+      "url": "https://fta.ektv.in/live/97/97_0.m3u8"
     },
     {
       "channel": "Fox Sports 2",
@@ -43,12 +39,20 @@
       "url": "https://fta.ektv.in/live/46/46_0.m3u8"
     },
     {
-      "channel": "Pocket Films",
-      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
+      "channel": "Kalika TV",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+    },
+    {
+      "channel": "Gangaur TV",
+      "url": "https://cdn.pishow.tv/ott/live/1221/master.m3u8"
     },
     {
       "channel": "Pratham News",
       "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8"
+    },
+    {
+      "channel": "Pocket Films",
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -71,12 +75,12 @@
       "url": "http://185.227.34.104/stream/122/index.m3u8"
     },
     {
-      "channel": "ZB Music",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
-    },
-    {
       "channel": "Cartoon Network CEE Germany",
       "url": "http://94.130.48.67:8042/stream/109/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Asia Thailand",
+      "url": "http://103.148.210.190:8000/play/a14r"
     },
     {
       "channel": "Discovery History",
@@ -87,6 +91,10 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
+      "channel": "Investigation Discovery (France)",
+      "url": "http://192.99.186.30/stream/81/index.m3u8"
+    },
+    {
       "channel": "Disney Channel Latin America South",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
@@ -95,12 +103,12 @@
       "url": "http://stream.mcquack.net/205/index.m3u8"
     },
     {
-      "channel": "National Geographic (Croatia)",
-      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
-    },
-    {
       "channel": "National Geographic (Netherlands)",
       "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8"
+    },
+    {
+      "channel": "National Geographic (Croatia)",
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
     },
     {
       "channel": "National Geographic Wild (Poland) (576i)",
