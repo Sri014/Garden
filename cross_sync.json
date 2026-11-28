@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 33,
+  "repaired": 34,
   "channels": [
     {
       "channel": "TNT Sports Premium HD",
@@ -11,12 +11,16 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Andy Haryana",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+      "channel": "Apna Punjab TV (Canada)",
+      "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
     },
     {
       "channel": "Anand Wari TV",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
+    },
+    {
+      "channel": "Andy Haryana",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -39,20 +43,12 @@
       "url": "https://fta.ektv.in/live/46/46_0.m3u8"
     },
     {
-      "channel": "Gangaur TV",
-      "url": "https://cdn.pishow.tv/ott/live/1221/master.m3u8"
-    },
-    {
       "channel": "Pocket Films",
       "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
       "channel": "Pratham News",
       "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8"
-    },
-    {
-      "channel": "News Nation 81",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -67,24 +63,20 @@
       "url": "http://stream.mcquack.net/114/index.m3u8"
     },
     {
-      "channel": "Animal Planet Latin America",
-      "url": "http://190.128.214.97:64333/play/a01n/index.m3u8"
-    },
-    {
       "channel": "Cartoon Network (Italy)",
       "url": "http://185.227.34.104/stream/122/index.m3u8"
     },
     {
+      "channel": "Animal Planet Latin America",
+      "url": "http://190.128.214.97:64333/play/a01n/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network (United States)",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
+    },
+    {
       "channel": "Cartoon Network CEE Germany",
       "url": "http://94.130.48.67:8042/stream/109/index.m3u8"
-    },
-    {
-      "channel": "Cartoon Network Asia Thailand",
-      "url": "http://103.148.210.190:8000/play/a14r"
-    },
-    {
-      "channel": "Cartoon Network Latin America Brazil",
-      "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8"
     },
     {
       "channel": "Discovery History",
@@ -95,16 +87,20 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8"
     },
     {
-      "channel": "Investigation Discovery (France)",
-      "url": "http://192.99.186.30/stream/81/index.m3u8"
-    },
-    {
       "channel": "Disney Channel Latin America South",
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8"
     },
     {
       "channel": "Investigation Discovery (Russia)",
       "url": "http://stream.mcquack.net/205/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Asia Thailand",
+      "url": "http://103.148.210.190:8000/play/a14r"
+    },
+    {
+      "channel": "Cartoon Network CEE",
+      "url": "http://193.33.39.108:9007/play/a00l"
     },
     {
       "channel": "National Geographic (Netherlands)",
@@ -115,24 +111,32 @@
       "url": "http://176.61.157.250/NationalGeographic/index.m3u8"
     },
     {
-      "channel": "National Geographic Wild (Poland) (576i)",
-      "url": "http://92.114.85.87:8010/play/a005/index.m3u8"
-    },
-    {
       "channel": "National Geographic Wild (Russia) HD",
       "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
+    },
+    {
+      "channel": "National Geographic Wild (Poland) (576i)",
+      "url": "http://92.114.85.87:8010/play/a005/index.m3u8"
     },
     {
       "channel": "FashionTV (India)",
       "url": "http://163.61.226.31:9981/stream/channelid/448803688?profile=pass"
     },
     {
+      "channel": "Cartoon Network CEE Romania (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8"
+    },
+    {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
     },
     {
-      "channel": "Cartoon Network Asia Vietnam",
-      "url": "http://antm.dynu.net:14285/rtp/232.84.1.16:8070"
+      "channel": "National Geographic (Romania) (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8"
+    },
+    {
+      "channel": "National Geographic Wild (Romania) HD (1080i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8"
     }
   ]
 }
