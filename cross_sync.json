@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/Sri014/3502/main/playlist_working.m3u",
-  "repaired": 31,
+  "repaired": 33,
   "channels": [
     {
       "channel": "TNT Sports Premium HD",
@@ -11,12 +11,12 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "channel": "Anand Wari TV",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
-    },
-    {
       "channel": "Andy Haryana",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8"
+    },
+    {
+      "channel": "Anand Wari TV",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
     },
     {
       "channel": "Aradana TV",
@@ -39,20 +39,20 @@
       "url": "https://fta.ektv.in/live/46/46_0.m3u8"
     },
     {
-      "channel": "Kalika TV",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
-    },
-    {
       "channel": "Gangaur TV",
       "url": "https://cdn.pishow.tv/ott/live/1221/master.m3u8"
+    },
+    {
+      "channel": "Pocket Films",
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
     },
     {
       "channel": "Pratham News",
       "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8"
     },
     {
-      "channel": "Pocket Films",
-      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8"
+      "channel": "News Nation 81",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8"
     },
     {
       "channel": "Times Now (720p)",
@@ -81,6 +81,10 @@
     {
       "channel": "Cartoon Network Asia Thailand",
       "url": "http://103.148.210.190:8000/play/a14r"
+    },
+    {
+      "channel": "Cartoon Network Latin America Brazil",
+      "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8"
     },
     {
       "channel": "Discovery History",
@@ -125,6 +129,10 @@
     {
       "channel": "National Geographic (Russia)",
       "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
+    },
+    {
+      "channel": "Cartoon Network Asia Vietnam",
+      "url": "http://antm.dynu.net:14285/rtp/232.84.1.16:8070"
     }
   ]
 }
